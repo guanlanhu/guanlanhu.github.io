@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Wei
+first_name: Guanlan
 middle_name: 
-last_name: Lu
-email: wei.lu@rotman.utoronto.ca
+last_name: Hu
+email: guanlan.hu@rotman.utoronto.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -18,7 +18,7 @@ keywords: academic-website, platform-design  # add your own keywords or leave em
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://weilu-mkt.github.io # the base hostname & protocol for your site
+url: https://guanlanhu.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -79,7 +79,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 google_analytics: # your google-analytics ID (format: UA-XXXXXXXXX)
-ga4_analytics: G-VV2JL9PJ92
+ga4_analytics:
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
