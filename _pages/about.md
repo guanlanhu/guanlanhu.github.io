@@ -6,7 +6,7 @@ subtitle: Postdoctoral Fellow in Nutritional Sciences
 
 profile:
   align: left
-  image: logo.jpg
+  image: hgl.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     Contact:
