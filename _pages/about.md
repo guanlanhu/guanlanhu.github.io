@@ -20,8 +20,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 Welcome to my website! 
 
-I am a Postdoctoral Fellow in Nutritional Sciences, <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a>. 
+I am a Postdoctoral Fellow in Nutritional Sciences, <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a>, and my supervisor is <a href='https://labbelab.utoronto.ca/'>Mary R. L’Abbé</a>.
 
 Please find links of interest above. 
 
-<a href='https://labbelab.utoronto.ca/'>L'Abbé Lab</a>
+
