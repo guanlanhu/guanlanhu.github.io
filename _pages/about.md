@@ -24,4 +24,4 @@ I am a Postdoctoral Fellow in Nutritional Sciences, <a href='https://temertymedi
 
 Please find links of interest above. 
 
-at <a href='https://labbelab.utoronto.ca/'>L'Abbé Lab</a>
+<a href='https://labbelab.utoronto.ca/'>L'Abbé Lab</a>
