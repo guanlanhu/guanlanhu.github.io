@@ -9,8 +9,8 @@ nav_order: 2
 
 1, Packaged Food Representations
 
-![Packaged Food Products by TRA](https://github.com/guanlanhu/guanlanhu.github.io/blob/main/assets/img/TRA.png)
-
+<!-- ![Packaged Food Products by TRA](https://github.com/guanlanhu/guanlanhu.github.io/blob/main/assets/img/TRA.png) -->
+<img src="/guanlanhu.github.io/blob/main/assets/img/TRA.png"/>
 
 2, Metabolic and Lipidomic Profiles (Well-nourished vs Malnourished)
 
