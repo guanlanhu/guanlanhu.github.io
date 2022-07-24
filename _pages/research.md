@@ -15,7 +15,7 @@ profile:
   image_cicular: false # crops the image to make it circular
 
 
-![TRA.](/assets/img/TRA.png)
+![TRA.](assets/img/TRA.png)
 
 
 2, Metabolic and Lipidomic Profiles (Well-nourished vs Malnourished)
