@@ -7,6 +7,18 @@ nav: true
 nav_order: 3
 ---
 
-**Fun facts about me**
+**Fun Facts About Me**
 
-* From Nanjing –> Shanghai –> Toronto, I have been traveling all the way to the east (Journey to the East, yes!)
+* From Hunan –> Nanjing –> Shanghai –> Toronto, I have been traveling all the way to the east (Journey to the East, yes!)
+
+
+**My Favorite Hikes**
+
+<!-- * Pics -->
+
+
+**Chi Map CHINA and WORLD**
+
+**Food Guidelines**
+
+*Canada’s food guide
