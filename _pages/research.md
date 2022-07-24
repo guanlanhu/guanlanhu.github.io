@@ -9,26 +9,6 @@ nav_order: 2
 
 **1, Packaged Food Representations**
 
----
-layout: about
-title: About
-permalink: /
-subtitle: Postdoctoral Fellow in Nutritional Sciences, Amazing Mom, Foody and Hiking Fan
-
-profile:
-  align: left
-  image: TRA.png
-  image_cicular: false # crops the image to make it circular
-  address: >
-    Contact:
-    
-    <p>1 King's College Circle, Toronto, ON M5S 1A8</p>
-    <p><a href = "mailto:guanlan.hu@utoronto.ca">guanlan.hu@utoronto.ca</a></p>
-
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
----
 
 ![Packaged Food Products by TRA](/assets/img/TRA.png "TRA")
 
