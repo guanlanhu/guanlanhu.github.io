@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-1, Packaged Food Product Representations
+1, Packaged Food Representations
 
 
 2, Metabolic and Lipidomic Profiles (Well-nourished vs Malnourished)
