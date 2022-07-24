@@ -7,12 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-1, Packaged Food Representations
+**1, Packaged Food Representations**
 
 ![Packaged Food Products by TRA](/assets/img/TRA.png "TRA")
 
 
-2, Metabolic and Lipidomic Profiles (Well-nourished vs Malnourished)
+**2, Metabolic and Lipidomic Profiles (Well-nourished vs Malnourished)**
 
 ![alt text](/assets/img/Meta.png "Meta")
 
