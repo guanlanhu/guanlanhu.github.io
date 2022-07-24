@@ -9,7 +9,7 @@ nav_order: 2
 
 1, Packaged Food Representations
 
-! [TRA] (/Users/hgl/Dropbox/Mac_HGL/CV/guanlanhu.github.io/assets/img/TRA.png)
+![TRA] (/Users/hgl/Dropbox/Mac_HGL/CV/guanlanhu.github.io/assets/img/TRA.png)
 
 
 2, Metabolic and Lipidomic Profiles (Well-nourished vs Malnourished)
