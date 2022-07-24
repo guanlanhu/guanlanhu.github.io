@@ -17,7 +17,7 @@ nav_order: 3
 <!-- * Pics -->
 
 
-**Chi Map CHINA and WORLD**
+**Chi Map (China and World)**
 
 **Food Guidelines**
 
