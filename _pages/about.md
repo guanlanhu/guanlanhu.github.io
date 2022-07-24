@@ -6,7 +6,7 @@ subtitle: Postdoctoral Fellow in Nutritional Sciences, Amazing Mom, Foody and Hi
 
 profile:
   align: left
-  image: hgl2.jpg
+  image: [hgl2.jpg](https://github.com/guanlanhu/guanlanhu.github.io/blob/main/assets/img/hgl.jpg)
   image_cicular: false # crops the image to make it circular
   address: >
     Contact:
