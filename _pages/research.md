@@ -10,6 +10,7 @@ nav_order: 2
 1, Packaged Food Product Representations
 
 
+2, Metabolic and Lipidomic Profiles of Well-nourished vs Malnourished
 
 
 <!-- ### Publications -->
