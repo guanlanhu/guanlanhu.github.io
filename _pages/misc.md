@@ -21,6 +21,6 @@ nav_order: 3
 
 **Food Guidelines**
 
-*Canada’s food guide
-*US
-*China
+* Canada’s food guide
+* US
+* China
