@@ -7,10 +7,14 @@ nav: true
 nav_order: 2
 ---
 
+1, Packaged Food Product Representations
 
-### Publications
 
-Polymer nanoparticles composed with gallic acid grafted chitosan and bioactive peptides combined antioxidant, anticancer activities and improved delivery property for labile …
+
+
+<!-- ### Publications -->
+
+<!-- Polymer nanoparticles composed with gallic acid grafted chitosan and bioactive peptides combined antioxidant, anticancer activities and improved delivery property for labile …
 B Hu, Y Wang, M Xie, G Hu, F Ma, X Zeng
 Journal of Functional Foods 15, 593-603
 
@@ -35,4 +39,4 @@ High Pressure Research 35 (3), 330-338
 
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
-Journal of Food and Nutrition Research 3 (1), 26-33
+Journal of Food and Nutrition Research 3 (1), 26-33 -->
