@@ -9,12 +9,6 @@ nav_order: 2
 
 1, Packaged Food Representations
 
-profile:
-  align: left
-  image: TRA.jpg
-  image_cicular: false # crops the image to make it circular
-
-
 ! [TRA] (/Users/hgl/Dropbox/Mac_HGL/CV/guanlanhu.github.io/assets/img/TRA.png)
 
 
