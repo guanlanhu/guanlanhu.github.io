@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Fellow in Nutritional Sciences, Amazing Mom, and Hiking Fan
+subtitle: Postdoctoral Fellow in Nutritional Sciences, Amazing Mom, Foody and Hiking Fan
 
 profile:
   align: left
@@ -18,7 +18,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Welcome to my website! 
+Hello/你好/Bonjour. Welcome to my website! 
 
 I am a Postdoctoral Fellow in Nutritional Sciences at <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a>, and my supervisor is <a href='https://labbelab.utoronto.ca/people/mary-labbe/'>Mary R. L’Abbé</a>. Before postdoc, I completed my PhD training at the University of Toronto and <a href='https://www.sickkids.ca/'>The Hospital for Sick Children</a>. 
 
