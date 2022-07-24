@@ -14,7 +14,7 @@ nav_order: 3
 
 **My Favorite Hikes**
 
-<!-- * Pics -->
+* Pics
 
 
 **Chi Map (China and World)**
@@ -22,3 +22,5 @@ nav_order: 3
 **Food Guidelines**
 
 *Canada’s food guide
+*US
+*China
