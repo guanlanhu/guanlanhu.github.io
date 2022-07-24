@@ -14,6 +14,8 @@ nav_order: 2
 
 <a href = "mailto:guanlan.hu@utoronto.ca">guanlan.hu@utoronto.ca</a>
 
+<img src="[image url](https://guanlanhu.github.io/assets/img/TRA.png)" alt="alt text" title="TRA" />
+
 2, Metabolic and Lipidomic Profiles (Well-nourished vs Malnourished)
 
 
