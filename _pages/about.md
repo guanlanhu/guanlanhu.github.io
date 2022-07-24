@@ -20,6 +20,10 @@ social: false  # includes social icons at the bottom of the page
 ---
 Welcome to my website! 
 
-I am a Postdoctoral Fellow in Nutritional Sciences, <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a>, and my supervisor is <a href='https://labbelab.utoronto.ca/people/mary-labbe/'>Mary R. L’Abbé</a>.
+I am a Postdoctoral Fellow in Nutritional Sciences at <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a>, and my supervisor is <a href='https://labbelab.utoronto.ca/people/mary-labbe/'>Mary R. L’Abbé</a>.
+
+My research interests are Deep Learning (NLP/CV) in Food and Nutrition Research, Metabolic Diseases, Food Marketing. My current research focuses on understanding the economic and nutritional costs of food purchasing behaviours across neighbourhoods. I have a strong interest in big data and machine learning approaches as they are dramatically changing how we understand food consumption behaviours in ways that have never before been possible. 
+
+Before joining the L’Abbé Lab, I completed my PhD training at the University of Toronto and The Hospital for Sick Children. 
 
 Please find links of interest above. 
