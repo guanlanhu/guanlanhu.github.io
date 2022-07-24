@@ -9,7 +9,8 @@ nav_order: 2
 
 1, Packaged Food Representations
 
-![TRA](guanlanhu.github.io/assets/img/TRA.png "TRA")
+<!-- ![TRA](guanlanhu.github.io/assets/img/TRA.png "TRA") -->
+![alt text](/assets/img/TRA.png "image Title")
 
 <a href = "mailto:guanlan.hu@utoronto.ca">guanlan.hu@utoronto.ca</a>
 
