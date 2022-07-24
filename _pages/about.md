@@ -6,7 +6,7 @@ subtitle: Postdoctoral Fellow in Nutritional Sciences, Amazing Mom, Foody and Hi
 
 profile:
   align: left
-  image: [hgl2.jpg](https://github.com/guanlanhu/guanlanhu.github.io/blob/main/assets/img/hgl.jpg)
+  image: hgl.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     Contact:
@@ -25,3 +25,5 @@ I am a Postdoctoral Fellow in Nutritional Sciences at <a href='https://temertyme
 My research interests are **Deep Learning in Food and Nutrition, Food Marketing, and Metabolic Diseases**. My current research focuses on understanding the economic and nutritional costs of food purchasing behaviours across neighbourhoods. I have a strong interest in Natural Language Processing (NLP) and Computer Vision (CV) approaches as they are dramatically changing how we understand food consumption behaviours and the market in ways that have never before been possible. 
 
 Please find links of interest above. 
+
+<!-- [hgl2.jpg](https://github.com/guanlanhu/guanlanhu.github.io/blob/main/assets/img/hgl.jpg) -->
