@@ -9,6 +9,11 @@ nav_order: 2
 
 1, Packaged Food Representations
 
+profile:
+  align: left
+  image: TRA.jpg
+  image_cicular: false # crops the image to make it circular
+
 
 2, Metabolic and Lipidomic Profiles (Well-nourished vs Malnourished)
 
