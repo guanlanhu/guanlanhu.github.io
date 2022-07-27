@@ -20,8 +20,10 @@ nav_order: 3
 <br/><br/><br/>
 
 
-<!-- **Chi Map (China and World)** -->
+**Chi Map (China and World)**
 
+* Not Just Gong Bao Ji Ding
+<br/><br/><br/>
 
 **Food Guidelines**
 <br/><br/><br/>
