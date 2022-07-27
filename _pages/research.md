@@ -10,13 +10,17 @@ nav_order: 2
 **1, Packaged food representations that leveraged pre-trained NLP models**
 
 
+
 ![TRA](/assets/img/TRA.png "TRA")
 
 
 **2, Metabolic and lipidomic profiles (Well-nourished vs Malnourished)**
 
 
+
 ![Meta](/assets/img/Meta.png "Meta")
+
+
 <!-- ### Publications -->
 <!-- Polymer nanoparticles composed with gallic acid grafted chitosan and bioactive peptides combined antioxidant, anticancer activities and improved delivery property for labile …
 B Hu, Y Wang, M Xie, G Hu, F Ma, X Zeng
