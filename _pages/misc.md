@@ -24,7 +24,7 @@ nav_order: 3
 
 * Not Just Gong Bao Ji Ding
 <br/><br/><br/>
-![ChinaFood](/assets/img/FoodChina.jpg "ChinaFood")
+![ChinaFood](/assets/img/ChinaFood.jpg "ChinaFood")
 <br/><br/><br/>
 
 
