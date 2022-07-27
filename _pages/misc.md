@@ -11,6 +11,9 @@ nav_order: 3
 
 * From Hunan –> Nanjing –> Shanghai –> Toronto, I have been traveling all the way to the east (Journey to the East, yes!)
 
+* <a href='https://arthurweilu.com/'>Emerging Marketing Researcher Leader</a>
+
+
 
 **My Favorite Hikes**
 
