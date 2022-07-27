@@ -20,7 +20,7 @@ nav_order: 3
 
 
 **Food Guidelines**
-<!-- ![FoodGuide](/assets/img/FoodGuide.png "FoodGuide") -->
+<!-- ![FoodGuide](/assets/img/FoodGuide2.png "FoodGuide") -->
 [![FoodGuide](/assets/img/FoodGuide.png)](https://food-guide.canada.ca/en/)
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s food guide 2019</a>
