@@ -12,14 +12,14 @@ nav_order: 2
 
 
 ![TRA](/assets/img/TRA.png "TRA")
-
+<br/><br/>
 
 **2, Metabolic and lipidomic profiles (Well-nourished vs Malnourished)**
 
 
 
 ![Meta](/assets/img/Meta.png "Meta")
-
+<br/><br/>
 
 <!-- ### Publications -->
 <!-- Polymer nanoparticles composed with gallic acid grafted chitosan and bioactive peptides combined antioxidant, anticancer activities and improved delivery property for labile …
