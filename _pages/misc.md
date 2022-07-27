@@ -23,7 +23,10 @@ nav_order: 3
 **Chi Map (China and World)**
 
 * Not Just Gong Bao Ji Ding
-<br/><br/><br/>
+* <br/><br/><br/>
+![Hiking](/assets/img/FoodChina.png "Hiking")
+* <br/><br/><br/>
+
 
 **Food Guidelines**
 <br/><br/><br/>
