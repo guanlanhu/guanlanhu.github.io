@@ -7,13 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-**Fun Facts About Me**
+**Fun Facts**
 
 * From Hunan –> Nanjing –> Shanghai –> Toronto, I have been traveling all the way to the east (Journey to the East, yes!)
 
 * <a href='https://arthurweilu.com/'>Emerging Leader in Marketing Research</a>
 
-
+\
 
 **My Favorite Hikes**
 
@@ -22,10 +22,10 @@ nav_order: 3
 
 <!-- **Chi Map (China and World)** -->
 
-
+\
 **Food Guidelines**
 
-![FoodGuide](/assets/img/FoodGuide.png "FoodGuide")
+<!-- ![FoodGuide](/assets/img/FoodGuide.png "FoodGuide") -->
 
 [![FoodGuide](/assets/img/FoodGuide.png)](https://food-guide.canada.ca/en/)
 
