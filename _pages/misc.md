@@ -23,7 +23,6 @@ nav_order: 3
 **Chi Map (China and World)**
 
 * Not Just Gong Bao Ji Ding
-<br/>
 ![ChinaFood](/assets/img/ChinaFood.jpg "ChinaFood")
 <br/><br/><br/>
 
