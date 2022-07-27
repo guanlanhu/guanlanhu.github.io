@@ -10,12 +10,12 @@ nav_order: 2
 **1, Packaged food representations that leveraged pre-trained NLP models**
 
 
-![Packaged Food Products by TRA](/assets/img/TRA2.png "TRA")
+![TRA](/assets/img/TRA.png "TRA")
 
 
 **2, Metabolic and lipidomic profiles (Well-nourished vs Malnourished)**
 
-![alt text](/assets/img/Meta2.png "Meta")
+![Meta](/assets/img/Meta.png "Meta")
 
 <!-- ### Publications -->
 
