@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /assets/pdf/example_pdf.pdf
+permalink: /assets/pdf/CV.pdf
 title: Curriculum Vitae
 nav: true
 nav_order: 1
