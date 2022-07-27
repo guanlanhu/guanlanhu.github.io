@@ -14,12 +14,14 @@ nav_order: 3
 
 **My Favorite Hikes**
 
-![alt text](/assets/img/Hiking3.png "Hiking")
+![Hiking](/assets/img/Hiking.png "Hiking")
 
 
 **Chi Map (China and World)**
 
 **Food Guidelines**
+
+![FoodGuide](/assets/img/FoodGuide.png "FoodGuide")
 
 * Canada’s food guide
 * US
