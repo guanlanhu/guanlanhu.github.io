@@ -13,20 +13,14 @@ nav_order: 3
 
 * <a href='https://arthurweilu.com/'>Emerging Leader in Marketing Research</a>
 
-\
 
 **My Favorite Hikes**
-
 ![Hiking](/assets/img/Hiking.png "Hiking")
-
-
 <!-- **Chi Map (China and World)** -->
 
-\
+
 **Food Guidelines**
-
 <!-- ![FoodGuide](/assets/img/FoodGuide.png "FoodGuide") -->
-
 [![FoodGuide](/assets/img/FoodGuide.png)](https://food-guide.canada.ca/en/)
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s food guide 2019</a>
