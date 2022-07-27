@@ -23,6 +23,8 @@ nav_order: 3
 
 ![FoodGuide](/assets/img/FoodGuide.png "FoodGuide")
 
-* Canada’s food guide
-* US
-* China
+[![FoodGuide](/assets/img/FoodGuide.png)](https://food-guide.canada.ca/en/)
+
+* Canada’s food guide <a href='https://food-guide.canada.ca/en/'>Canada’s food guide</a>
+* US <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>US’s food guide</a>
+* China <a href='https://labbelab.utoronto.ca/people/mary-labbe/'>China’s food guide</a>
