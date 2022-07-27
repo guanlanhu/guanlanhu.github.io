@@ -17,7 +17,8 @@ nav_order: 3
 ![Hiking](/assets/img/Hiking.png "Hiking")
 
 
-**Chi Map (China and World)**
+<!-- **Chi Map (China and World)** -->
+
 
 **Food Guidelines**
 
@@ -25,6 +26,7 @@ nav_order: 3
 
 [![FoodGuide](/assets/img/FoodGuide.png)](https://food-guide.canada.ca/en/)
 
-* Canada’s food guide <a href='https://food-guide.canada.ca/en/'>Canada’s food guide</a>
-* US <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>US’s food guide</a>
-* China <a href='https://labbelab.utoronto.ca/people/mary-labbe/'>China’s food guide</a>
+* <a href='https://food-guide.canada.ca/en/'>Canada’s food guide 2019</a>
+* <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Dietary Guidelines for Americans 2020-2025</a>
+* <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Healthy Eating Plate vs. USDA’s MyPlate</a>
+* <a href='http://dg.cnsoc.org/imgnewslist_0602_1.htm'>Chinese Dietary Guidelines 2022</a>
