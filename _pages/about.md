@@ -22,7 +22,7 @@ Hello/你好/Bonjour. Welcome to my website!
 
 I am a Postdoc Fellow in Nutritional Sciences at <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a>, and my supervisor is <a href='https://labbelab.utoronto.ca/people/mary-labbe/'>Mary R. L’Abbé</a>. I completed my PhD training at the University of Toronto and <a href='https://www.sickkids.ca/'>The Hospital for Sick Children</a>. 
 
-My research interests are **Deep Learning in Public Health Nutrition, Food Marketing, and Metabolic Diseases**. My current research focuses on understanding the economic and nutritional costs of food purchasing behaviours across neighbourhoods. I have a strong interest in Natural Language Processing (NLP) and Computer Vision (CV) approaches as they are dramatically changing how we understand food consumption behaviours and the market in ways that have never before been possible. 
+My research interests are **Machine/Deep Learning in Public Health Nutrition, Food Marketing, and Metabolic Diseases**. My current research focuses on understanding the economic and nutritional costs of food purchasing behaviours across neighbourhoods. I have a strong interest in Natural Language Processing (NLP) and Computer Vision (CV) approaches as they are dramatically changing how we understand food consumption behaviours and the market in ways that have never before been possible. 
 
 <!-- Please find links of interest above. -->
 <!-- [hgl2.jpg](https://github.com/guanlanhu/guanlanhu.github.io/blob/main/assets/img/hgl.jpg) -->
