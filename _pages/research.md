@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-**1, Packaged food products representations that leveraged pre-trained NLP models**
+**1, Packaged food product representations that leveraged pre-trained NLP models**
 <br/><br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
