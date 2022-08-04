@@ -26,6 +26,6 @@ My research interests are **Artificial Intelligence in Nutrition, Food Purchase/
 
 
 <!-- Food Purchasing/Consumption Behaviors,  -->
-
+ 
 <!-- Please find links of interest above. -->
 <!-- [hgl2.jpg](https://github.com/guanlanhu/guanlanhu.github.io/blob/main/assets/img/hgl.jpg) -->
