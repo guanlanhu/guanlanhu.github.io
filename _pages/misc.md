@@ -31,10 +31,10 @@ nav_order: 3
 **Food Guidelines**
 <br/><br/><br/>
 <!-- ![FoodGuide](/assets/img/FoodGuide2.png "FoodGuide") -->
-[![FoodGuide](/assets/img/FoodGuide.png)](https://food-guide.canada.ca/en/)
+[![FoodGuide](/assets/img/FoodGuide2.png)](https://food-guide.canada.ca/en/)
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s Food Guide 2019</a>
 * <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Dietary Guidelines for Americans 2020-2025</a>
 * <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Healthy Eating Plate vs. USDA’s MyPlate</a>
 * <a href='http://dg.cnsoc.org/imgnewslist_0602_1.htm'>Chinese Dietary Guidelines 2022</a>
-<br/><br/><br/>  
+<br/><br/><br/>
