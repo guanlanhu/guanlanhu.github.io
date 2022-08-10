@@ -12,7 +12,7 @@ nav_order: 2
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
-**2, Metabolic and lipidomic profiles (Well-nourished vs Malnourished)**
+**2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished)**
 <br/><br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
