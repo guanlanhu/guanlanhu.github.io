@@ -7,30 +7,33 @@ nav: true
 nav_order: 2
 ---
 
-**1, Packaged foods and beverages representation that leveraged pre-trained model in natural language processing (NLP)**
+**1, Packaged foods and beverages representation that leveraged pre-trained model in Natural Language Processing**
+<br/>
 (Revise & Resubmit, The American Journal of Clinical Nutrition)
 <br/><br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
 **2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished)**
+<br/>
 (Accepted, Nature Communications)
 <br/><br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
 
 <!-- ### Other Selected Publications -->
-<!-- Polymer nanoparticles composed with gallic acid grafted chitosan and bioactive peptides combined antioxidant, anticancer activities and improved delivery property for labile …
+<!-- 
+Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations
+G Hu, Y Zheng, Z Liu, Y Deng, Y Zhao
+Food chemistry 204, 46-55
+
+Polymer nanoparticles composed with gallic acid grafted chitosan and bioactive peptides combined antioxidant, anticancer activities and improved delivery property for labile …
 B Hu, Y Wang, M Xie, G Hu, F Ma, X Zeng
 Journal of Functional Foods 15, 593-603
 
 Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein
 G Hu, Y Zheng, Z Liu, Y Xiao, Y Deng, Y Zhao
 Food chemistry 221, 1860-1866
-
-Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations
-G Hu, Y Zheng, Z Liu, Y Deng, Y Zhao
-Food chemistry 204, 46-55
 
 Effects of UV-C and single-and multiple-cycle high hydrostatic pressure treatments on flavor evolution of cow milk: Gas chromatography-mass spectrometry, electronic nose, and …
 G Hu, Y Zheng, Z Liu, Y Deng
