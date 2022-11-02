@@ -8,20 +8,21 @@ nav_order: 2
 ---
 
 **1, Packaged foods and beverages representation that leveraged pre-trained model in natural language processing (NLP)**
+(Revise & Resubmit, The American Journal of Clinical Nutrition)
 <br/><br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
 **2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished)**
+(Accepted, Nature Communications)
 <br/><br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
 
-<!-- ### Publications -->
+<!-- ### Other Selected Publications -->
 <!-- Polymer nanoparticles composed with gallic acid grafted chitosan and bioactive peptides combined antioxidant, anticancer activities and improved delivery property for labile …
 B Hu, Y Wang, M Xie, G Hu, F Ma, X Zeng
 Journal of Functional Foods 15, 593-603
-
 
 Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein
 G Hu, Y Zheng, Z Liu, Y Xiao, Y Deng, Y Zhao
