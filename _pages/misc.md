@@ -31,7 +31,7 @@ nav_order: 2
 **Food Guidelines**
 <br/><br/><br/>
 <!-- ![FoodGuide](/assets/img/FoodGuide2.png "FoodGuide2") -->
-[![FoodGuide2](/assets/img/FoodGuide2.png)](https://food-guide.canada.ca/en/) 
+[![FoodGuide2](/assets/img/FoodGuide2.png)](https://food-guide.canada.ca/en/)  
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s Food Guide 2019</a>
 * <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Dietary Guidelines for Americans 2020-2025</a>
