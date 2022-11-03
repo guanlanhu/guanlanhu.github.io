@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description:
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 **1, Packaged foods and beverages representation that leveraged pre-trained model in Natural Language Processing**
