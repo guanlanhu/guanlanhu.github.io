@@ -9,7 +9,7 @@ nav_order: 2
 
 **Fun Facts**
 
-* From Hunan –> Nanjing –> Shanghai –> Toronto, I have been traveling all the way to the east (Journey to the East, yes!)
+* From Hunan - Nanjing - Shanghai –> Toronto - Philidaphia, I have been traveling all the way to the east (Journey to the East, yes!)
 
 * <a href='https://arthurweilu.com/'>Emerging Leader in Marketing Research</a>
 <br/><br/><br/>
