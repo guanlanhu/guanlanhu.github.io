@@ -9,14 +9,14 @@ nav_order: 1
 
 **1, Packaged foods and beverages representation that leveraged pre-trained model in Natural Language Processing**
 <br/>
-(minor revision at The American Journal of Clinical Nutrition)
+(minor revision at The American Journal of Clinical Nutrition, 2022)
 <br/><br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
 **2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished)**
 <br/>
-(Accepted, Nature Communications)
+(Accepted, Nature Communications, 2022)
 <br/><br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
