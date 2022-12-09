@@ -9,7 +9,8 @@ nav_order: 1
 
 **1, Packaged foods and beverages representation that leveraged pre-trained model in Natural Language Processing**
 <br/>
-[1] Hu, G., Ahmed, M., L’Abb ́e, M. (2022). Natural language processing and machine learning approaches
+<br/>
+[1] **Hu, G.**, Ahmed, M., L’Abbe, M. (2022). Natural language processing and machine learning approaches
 for food categorization and nutrition quality prediction compared to traditional methods. (Accepted, In Press,
 The American Journal of Clinical Nutrition)
 <br/><br/><br/>
