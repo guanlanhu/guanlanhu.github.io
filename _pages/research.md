@@ -16,8 +16,10 @@ nav_order: 1
 
 **2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished)**
 <br/>
-<br/>
-**Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. H. J. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. Nature Communications, 13(1), 7576.
+[1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. H. J. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. Nature Communications, 13(1), 7576.
+
+[2] Arvidsson Kvissberg, M. E., **Hu, G.**, Chi, L., Bourdon, C., Ling, C., ChenMi, Y., ... & Bandsma, R. (2022). Inhibition of mTOR improves malnutrition induced hepatic metabolic dysfunction. Scientific Reports, 12(1), 1-12.
+
 <br/><br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
