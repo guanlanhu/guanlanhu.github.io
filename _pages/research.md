@@ -16,7 +16,7 @@ nav_order: 1
 
 **2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished)**
 <br/>
-(Accepted, Nature Communications, 2022)
+(Hu, G., Ling, C., Chi, L., Thind, M. K., Furse, S., Koulman, A., Swann, J. R., Lee, D., Calon, M. M., Bourdon, C., Versloot, C. J., Bakker, B. M., Gonzales, G. B., Kim, P. K., & Bandsma, R. H. J. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. Nature Communications, 13(1), 7576.)
 <br/><br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
