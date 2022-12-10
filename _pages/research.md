@@ -11,7 +11,7 @@ nav_order: 1
 <br/>
 <br/>
 [1] **Hu, G.**, Ahmed, M., L’Abbe, M. (2022). Natural language processing and machine learning approaches
-for food categorization and nutrition quality prediction compared to traditional methods. (Accepted, In Press,
+for food categorization and nutrition quality prediction compared to traditional methods. (Accepted and In Press, Nov 2022,
 The American Journal of Clinical Nutrition)
 <br/><br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
@@ -20,7 +20,7 @@ The American Journal of Clinical Nutrition)
 **2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished)**
 <br/>
 <br/>
-[1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. H. J. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. Nature Communications, 13(1), 7576.
+[1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. H. J. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. Nature Communications, 13(1), 1-16.
 
 [2] Arvidsson Kvissberg, M. E., **Hu, G.**, Chi, L., Bourdon, C., Ling, C., ChenMi, Y., ... & Bandsma, R. (2022). Inhibition of mTOR improves malnutrition induced hepatic metabolic dysfunction. Scientific Reports, 12(1), 1-12.
 
