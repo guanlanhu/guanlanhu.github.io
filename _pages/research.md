@@ -12,7 +12,7 @@ nav_order: 1
 <br/>
 [1] **Hu, G.**, Ahmed, M., L’Abbe, M. (2022). Natural language processing and machine learning approaches
 for food categorization and nutrition quality prediction compared to traditional methods. (Accepted and In Press, Nov 2022,
-The American Journal of Clinical Nutrition)
+\textit{The American Journal of Clinical Nutrition})
 <br/><br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
