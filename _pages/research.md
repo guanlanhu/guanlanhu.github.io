@@ -20,7 +20,7 @@ for food categorization and nutrition quality prediction compared to traditional
 **2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished)**
 <br/>
 <br/>
-[1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. H. J. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16.
+[1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16.
 
 [2] Arvidsson Kvissberg, M. E., **Hu, G.**, Chi, L., Bourdon, C., Ling, C., ChenMi, Y., ... & Bandsma, R. (2022). Inhibition of mTOR improves malnutrition induced hepatic metabolic dysfunction. *Scientific Reports*, 12(1), 1-12.
 
@@ -31,9 +31,9 @@ for food categorization and nutrition quality prediction compared to traditional
 **3, Food Processing**
 <br/>
 <br/>
-[1] **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food chemistry*, 204, 46-55.
+[1] **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food Chemistry*, 204, 46-55.
 
-[2] **Hu, G.**, Zheng, Y., Liu, Z., Xiao, Y., Deng, Y., & Zhao, Y. (2017). Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein. *Food chemistry*, 221, 1860-1866.
+[2] **Hu, G.**, Zheng, Y., Liu, Z., Xiao, Y., Deng, Y., & Zhao, Y. (2017). Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein. *Food Chemistry*, 221, 1860-1866.
 
 <br/><br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
