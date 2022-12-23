@@ -35,9 +35,9 @@ for food categorization and nutrition quality prediction compared to traditional
 
 [2] **Hu, G.**, Zheng, Y., Liu, Z., Xiao, Y., Deng, Y., & Zhao, Y. (2017). Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein. *Food Chemistry*, 221, 1860-1866.
 
-<br/><br/><br/>
+<!-- <br/><br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
-<br/><br/><br/>
+<br/><br/><br/> -->
 
 <!-- ### Other Selected Publications -->
 <!-- 
