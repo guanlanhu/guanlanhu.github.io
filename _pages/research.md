@@ -28,6 +28,17 @@ for food categorization and nutrition quality prediction compared to traditional
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
 
+**3, Food Processing**
+<br/>
+<br/>
+[1] **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food chemistry*, 204, 46-55.
+
+[2] **Hu, G.**, Zheng, Y., Liu, Z., Xiao, Y., Deng, Y., & Zhao, Y. (2017). Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein. *Food chemistry*, 221, 1860-1866.
+
+<br/><br/><br/>
+![Meta](/assets/img/Meta.png "Meta")
+<br/><br/><br/>
+
 <!-- ### Other Selected Publications -->
 <!-- 
 Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations
