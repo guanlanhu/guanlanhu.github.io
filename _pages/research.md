@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-**1, Packaged foods and beverages representation that leveraged pre-trained model in Natural Language Processing**
+**1, Packaged foods and beverages representation that leveraged pre-trained model in Natural Language Processing (NLP)**
 <br/>
 <br/>
 [1] **Hu, G.**, Ahmed, M., L’Abbe, M. (2022). Natural language processing and machine learning approaches
