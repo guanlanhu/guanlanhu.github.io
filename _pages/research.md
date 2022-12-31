@@ -17,7 +17,7 @@ for food categorization and nutrition quality prediction compared to traditional
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
-**2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished)**
+**2, Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver metabolic dysfunction)**
 <br/>
 <br/>
 [1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16.
