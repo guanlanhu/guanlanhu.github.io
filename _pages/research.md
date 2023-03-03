@@ -13,6 +13,9 @@ nav_order: 1
 [1] **Hu, G.**, Ahmed, M., & L'Abbé, M. R. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. The American Journal of Clinical Nutrition, 117(3), 449-450.
 [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://authors.elsevier.com/a/1gh7wgSEGvgs)
 
+[2] **Hu, G.**, Flexner, N., Tiscornia, M., L’Abb ́e, M. (2022). Accelerating classification of food processing
+levels using a fine-tuned language model: a multi-country study. (working paper)
+
 <br/><br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
