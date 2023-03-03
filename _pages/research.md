@@ -29,7 +29,7 @@ levels using a fine-tuned language model: a multi-country study. (working paper)
 [2] Arvidsson Kvissberg, M. E., **Hu, G.**, Chi, L., Bourdon, C., Ling, C., ChenMi, Y., ... & Bandsma, R. (2022). Inhibition of mTOR improves malnutrition induced hepatic metabolic dysfunction. *Scientific Reports*, 12(1), 1-12.
 [https://doi.org/10.1038/s41598-022-24428-7](https://www.nature.com/articles/s41598-022-24428-7)
 
-<br/><br/><br/>
+<br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
 
