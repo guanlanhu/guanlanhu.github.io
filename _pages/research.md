@@ -57,7 +57,7 @@ Food chemistry 221, 1860-1866
 
 Effects of UV-C and single-and multiple-cycle high hydrostatic pressure treatments on flavor evolution of cow milk: Gas chromatography-mass spectrometry, electronic nose, and …
 G Hu, Y Zheng, Z Liu, Y Deng
-International Journal of Food Properties 20 (7), 1677-1688 
+International Journal of Food Properties 20 (7), 1677-1688
 
 
 Comparison of microbiological loads and physicochemical properties of raw milk treated with single-/multiple-cycle high hydrostatic pressure and ultraviolet-C light
