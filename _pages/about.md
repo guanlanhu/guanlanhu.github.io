@@ -22,7 +22,7 @@ Hello/你好/Bonjour. Welcome to my website!
 
 I am a Postdoc Fellow in Nutritional Sciences at <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a>, and my supervisor is <a href='https://labbelab.utoronto.ca/people/mary-labbe/'>Mary R. L’Abbé</a>. I completed my PhD training at the University of Toronto and <a href='https://www.sickkids.ca/'>The Hospital for Sick Children</a>. 
 
-My research interests are Artificial Intelligence in Nutrition, Artificial Intelligence in Nutrition, Precision Nutrition, Dietary Behaviors, and Cardiometabolic Diseases.
+My research interests are Artificial Intelligence (AI) in Nutrition, Precision Nutrition, Dietary Behaviors, and Cardiometabolic Diseases.
 
 <!-- I have developed hands-on experience in nutrition interventions, metabolic dysfunction, cohort studies, and food policy research, and have implemented a wide array of machine learning methodologies to deal with multi-omics and clinical time series data, histology images, food scanner data, and nutrient composition databases. I have a strong interest in Natural Language Processing (NLP), Computer Vision (CV), and Multi-Omics approaches as they are dramatically changing how we understand food consumption behaviors and related metabolic diseases in ways that have never before been possible. -->
 
