@@ -14,7 +14,7 @@ nav_order: 1
 [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022)
 
 [2] **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating classification of food processing
-levels using a fine-tuned language model: a multi-country study. (working paper ready to submit)
+levels using a fine-tuned language model: a multi-country study. (submitted)
 
 <br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
