@@ -33,7 +33,7 @@ levels using a fine-tuned language model: a multi-country study. (submitted, May
 leads to increased mitochondrial biogenesis and reduced autophagy that preserve mitochondrial function.
 *Cellular and Molecular Life Sciences*. (Accepted and In Press, May 2023)
 
-[4] Ling, C., Versloot, C., Kvissberg, M., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Modulation of the SIRT1-Autophagy pathway preserves intestinal barrier integrity and improves lactose absorption in a mouse model of severe malnutrition. *EBio Medicine*. (Accepted and In Press, IF=11.2)
+[4] Ling, C., Versloot, C., Kvissberg, M., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Modulation of the SIRT1-Autophagy pathway preserves intestinal barrier integrity and improves lactose absorption in a mouse model of severe malnutrition. *EBio Medicine*. (Accepted and In Press, June 2023)
 
 <br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
