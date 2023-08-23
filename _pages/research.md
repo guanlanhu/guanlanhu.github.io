@@ -13,7 +13,7 @@ nav_order: 1
 [1] **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 449-450. **(Editor's Choice)**
 [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022)
 
-[2] **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating classification of food processing
+[2] **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating classification of NOVA food processing
 levels using a fine-tuned language model: a multi-country study. (submitted, May 2023)
 
 <br/><br/>
@@ -31,9 +31,10 @@ levels using a fine-tuned language model: a multi-country study. (submitted, May
 
 [3] Chi, L., Lee, D., Leung, S., **Hu, G.**, Wen, B., ... & Bandsma, R. (2023). Loss of functional peroxisomes
 leads to increased mitochondrial biogenesis and reduced autophagy that preserve mitochondrial function.
-*Cellular and Molecular Life Sciences*. (Accepted and In Press, May 2023)
+*Cellular and Molecular Life Sciences*, 80(7), 1-20.
+[https://doi.org/10.1007/s00018-023-04827-3](https://link.springer.com/article/10.1007/s00018-023-04827-3)
 
-[4] Ling, C., Versloot, C., Kvissberg, M., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Modulation of the SIRT1-Autophagy pathway preserves intestinal barrier integrity and improves lactose absorption in a mouse model of severe malnutrition. *EBio Medicine*. (Accepted and In Press, June 2023)
+[4] Ling, C., Versloot, C., Kvissberg, M., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Modulation of the SIRT1-Autophagy pathway preserves intestinal barrier integrity and improves lactose absorption in a mouse model of severe malnutrition. *EBioMedicine*. (Accepted and In Press, June 2023)
 
 <br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
