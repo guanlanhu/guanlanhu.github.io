@@ -34,7 +34,8 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 *Cellular and Molecular Life Sciences*, 80(7), 1-20.
 [https://doi.org/10.1007/s00018-023-04827-3](https://link.springer.com/article/10.1007/s00018-023-04827-3)
 
-[4] Ling, C., Versloot, C., Arvidsson, M.E., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Rebalancing of mitochondrial homeostasis through an NAD+-SIRT1 pathway preserves intestinal barrier function in severe malnutrition. *EBioMedicine*, 96, 1-21.
+[4] Ling, C., Versloot, C., Arvidsson, M.E., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Rebalancing of mitochondrial homeostasis through an NAD+-SIRT1 pathway preserves intestinal barrier function in severe malnutrition. *EBioMedicine*, 96, 1-21. [https://doi.org/10.1016/j.ebiom.2023.104809](https://www.sciencedirect.com/science/article/pii/S2352396423003754)
+
 
 <br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
