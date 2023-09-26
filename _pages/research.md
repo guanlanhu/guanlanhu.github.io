@@ -14,7 +14,7 @@ nav_order: 1
 [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022)
 
 [2] **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating classification of NOVA food processing
-levels using a fine-tuned language model: a multi-country study. (submitted)
+levels using a fine-tuned language model: a multi-country study. *Nutrients*, 15, 1-12. (Accepted and In Press, Special Issue: AI in Public Health Nutrition)
 
 <br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
