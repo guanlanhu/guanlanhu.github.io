@@ -41,7 +41,7 @@ nav_order: 2
 * <a href='http://dg.cnsoc.org/imgnewslist_0602_1.htm'>Chinese Dietary Guidelines 2022</a>
 * <a href='https://hq.moh.gov.my/nutrition/wp-content/uploads/2021/07/Web%20MDG.pdf'>Malaysian Dietary Guidelines 2020</a>
 * <a href='https://drive.google.com/file/d/1oJ0WBCZfI4ffE1ZtdyQg60snIdFibb98/view?pli=1'>Mexico's Dietary Guidelines 2023</a>
-* <a href='https://www.minsal.cl/wp-content/uploads/2022/12/guias_alimentarias_2022_2ed.pdf'>Chile Dietary Guidelines 2022</a>
+* <a href='https://www.minsal.cl/wp-content/uploads/2022/12/guias_alimentarias_2022_2ed.pdf'>Chile's Dietary Guidelines 2022</a>
 * <a href='https://www.dietitian.or.jp/english/health/'>Dietary Guidelines for Japanese 2010</a>
 * <a href='https://www.eatforhealth.gov.au/sites/default/files/2022-09/n55_australian_dietary_guidelines.pdf'>Australian Dietary Guidelines 2013</a>
 * <a href='https://www.fao.org/3/as842e/as842e.pdf'>Dietary Guidelines for South Africa 2013</a>
