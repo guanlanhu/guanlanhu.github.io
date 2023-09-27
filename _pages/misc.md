@@ -42,6 +42,6 @@ nav_order: 2
 * <a href='https://hq.moh.gov.my/nutrition/wp-content/uploads/2021/07/Web%20MDG.pdf'>Malaysian Dietary Guidelines 2020</a>
 * <a href='https://drive.google.com/file/d/1oJ0WBCZfI4ffE1ZtdyQg60snIdFibb98/view?pli=1'>Mexico Dietary Guidelines 2023</a>
 * <a href='https://www.minsal.cl/wp-content/uploads/2022/12/guias_alimentarias_2022_2ed.pdf'>Chile Dietary Guidelines 2022</a>
-* <a href='https://www.mhlw.go.jp/bunya/kenkou/pdf/eiyou-syokuji4.pdf'>Dietary guidelines for Japanese 2010</a>
+* <a href='https://www.mhlw.go.jp/bunya/kenkou/pdf/eiyou-syokuji4.pdf'>Dietary Guidelines for Japanese 2010</a>
 
 <br/><br/><br/>
