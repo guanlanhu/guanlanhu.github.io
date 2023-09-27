@@ -45,7 +45,7 @@ nav_order: 2
 * <a href='https://www.dietitian.or.jp/english/health/'>Dietary Guidelines for Japanese 2010</a>
 * <a href='https://www.eatforhealth.gov.au/guidelines/australian-guide-healthy-eating/'>Australian Guide to Healthy Eating 2013</a>
 * <a href='https://www.fao.org/3/as842e/as842e.pdf'>Dietary Guidelines for South Africa 2013</a>
-* <a href='https://wiredhealthresources.net/presentations/82/story_content/external_files/Benin.pdf'>Benin's Dietary Guidelines 2015</a>
+* <a href='https://wiredhealthresources.net/presentations/82/story_content/external_files/Benin.pdf'>Bénin's Dietary Guidelines 2015</a>
 * <a href='https://www.dge.de/gesunde-ernaehrung/dge-ernaehrungsempfehlungen/dge-ernaehrungskreis/'>German Dietary Guidelines 2017</a>
 * <a href='http://www.diatrofikoiodigoi.gr/?Page=gia-enilikes'>Greek Dietary Guidelines 2014</a>
 
