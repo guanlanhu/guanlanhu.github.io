@@ -36,7 +36,7 @@ nav_order: 2
 
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s Food Guide 2019</a>
-* <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Dietary Guidelines for Americans 2020-2025</a>
+* <a href='https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf'>Dietary Guidelines for Americans 2020-2025</a>
 * <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Healthy Eating Plate vs. USDA’s MyPlate</a>
 * <a href='http://dg.cnsoc.org/imgnewslist_0602_1.htm'>Chinese Dietary Guidelines 2022</a>
 * <a href='https://hq.moh.gov.my/nutrition/wp-content/uploads/2021/07/Web%20MDG.pdf'>Malaysian Dietary Guidelines 2020</a>
