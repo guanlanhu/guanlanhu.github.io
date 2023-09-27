@@ -30,7 +30,7 @@ nav_order: 2
 
 **Food Guidelines**
 <br/><br/><br/>
-[![FoodGuide2](/assets/img/FG_6c.jpg "Dietary Guidelines")
+![FoodGuide2](/assets/img/FG_6c.jpg "Dietary Guidelines")
 <!-- ![FoodGuide](/assets/img/FG_6c.png "FG_6c") -->
 <!-- [![FoodGuide2](/assets/img/FG_6c.jpg)](https://food-guide.canada.ca/en/)  -->
 
