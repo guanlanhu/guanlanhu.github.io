@@ -44,7 +44,7 @@ nav_order: 2
 * <a href='https://www.minsal.cl/wp-content/uploads/2022/12/guias_alimentarias_2022_2ed.pdf'>Chile Dietary Guidelines 2022</a>
 * <a href='https://www.dietitian.or.jp/english/health/'>Dietary Guidelines for Japanese 2010</a>
 * <a href='https://www.eatforhealth.gov.au/guidelines/australian-guide-healthy-eating/'>Australian Guide to Healthy Eating 2013</a>
-* <a href='https://www.dietitian.or.jp/english/health/'>Dietary Guidelines for Japanese 2010</a>
+* <a href='https://www.fao.org/3/as842e/as842e.pdf'>Dietary Guidelines for South Africa 2013</a>
 
 
 
