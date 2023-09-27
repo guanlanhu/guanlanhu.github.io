@@ -28,7 +28,7 @@ nav_order: 2
 <br/><br/><br/>
 
 
-**Food Guidelines**
+**Dietary Guidelines**
 <br/><br/><br/>
 ![FoodGuide2](/assets/img/FG_12cs.png "Dietary Guidelines")
 <!-- ![FoodGuide](/assets/img/FG_12cs.png "Dietary Guidelines") -->
