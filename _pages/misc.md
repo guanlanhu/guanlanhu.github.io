@@ -30,8 +30,9 @@ nav_order: 2
 
 **Food Guidelines**
 <br/><br/><br/>
+[![FoodGuide2](/assets/img/FG_6c.jpg "Dietary Guidelines")
 <!-- ![FoodGuide](/assets/img/FG_6c.png "FG_6c") -->
-[![FoodGuide2](/assets/img/FG_6c.jpg)](https://food-guide.canada.ca/en/)  
+<!-- [![FoodGuide2](/assets/img/FG_6c.jpg)](https://food-guide.canada.ca/en/)  -->
 
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s Food Guide 2019</a>
