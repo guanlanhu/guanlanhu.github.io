@@ -30,9 +30,9 @@ nav_order: 2
 
 **Dietary Guidelines**
 <br/><br/><br/>
-![FoodGuide2](/assets/img/FG_12cs.png "Dietary Guidelines")
-<!-- ![FoodGuide](/assets/img/FG_12cs.png "Dietary Guidelines") -->
-<!-- [![FoodGuide2](/assets/img/FG_12cs.png)](https://food-guide.canada.ca/en/)  -->
+![FoodGuide2](/assets/img/FG_12c_ok.png "Dietary Guidelines")
+<!-- ![FoodGuide](/assets/img/FG_12c_ok.png "Dietary Guidelines") -->
+<!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
 
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s Food Guide 2019</a>
