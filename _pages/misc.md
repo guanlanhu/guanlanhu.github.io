@@ -37,6 +37,7 @@ nav_order: 2
 * <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Dietary Guidelines for Americans 2020-2025</a>
 * <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Healthy Eating Plate vs. USDA’s MyPlate</a>
 * <a href='http://dg.cnsoc.org/imgnewslist_0602_1.htm'>Chinese Dietary Guidelines 2022</a>
-<br/><br/><br/>
 * <a href='https://hq.moh.gov.my/nutrition/wp-content/uploads/2021/07/Web%20MDG.pdf'>Malaysian Dietary Guidelines 2020</a>
+* <a href='https://drive.google.com/file/d/1oJ0WBCZfI4ffE1ZtdyQg60snIdFibb98/view?pli=1'>Mexico Dietary Guidelines 2023</a>
+* <a href='https://www.minsal.cl/wp-content/uploads/2022/12/guias_alimentarias_2022_2ed.pdf'>Chile Dietary Guidelines 2022</a>
 <br/><br/><br/>
