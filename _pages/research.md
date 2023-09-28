@@ -19,7 +19,7 @@ nav_order: 1
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
-**2, Diet-related Metabolic Dysfunction**
+**2, Diet-related Metabolic Diseases**
 
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 <br/>
