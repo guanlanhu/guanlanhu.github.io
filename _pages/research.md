@@ -23,6 +23,7 @@ nav_order: 1
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 <br/>
 <br/>
+
 [1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16 [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
 
 [2] Arvidsson, M.E., **Hu, G.**, Chi, L., Bourdon, C., Ling, C., ChenMi, Y., ... & Bandsma, R. (2022). Inhibition of mTOR improves malnutrition induced hepatic metabolic dysfunction. *Scientific Reports*, 12(1), 1-12.
@@ -35,7 +36,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 
 [4] Ling, C., Versloot, C., Arvidsson, M.E., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Rebalancing of mitochondrial homeostasis through an NAD+-SIRT1 pathway preserves intestinal barrier function in severe malnutrition. *EBioMedicine*, 96, 1-21. [https://doi.org/10.1016/j.ebiom.2023.104809](https://www.sciencedirect.com/science/article/pii/S2352396423003754)
 
-[5] Vresk, L., Flanagan, M., Daniel, A., Potani, I., ... , Hu, G., & Bandsma, R. (2023). Micronutrient status in children aged 6-59 months with severe wasting and/or nutritional edema: Implications for nutritional rehabilitation formulations. *Nutrition Reviews*, (Accepted and In Press)
+[5] Vresk, L., Flanagan, M., Daniel, A., Potani, I., ... , **Hu, G.**, & Bandsma, R. (2023). Micronutrient status in children aged 6-59 months with severe wasting and/or nutritional edema: Implications for nutritional rehabilitation formulations. *Nutrition Reviews*, (Accepted and In Press)
 
 
 <br/><br/>
