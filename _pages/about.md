@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Fellow in Nutritional Sciences, Amazing Mom (beginner:), Foody and Hiking Lover
+subtitle: Postdoctoral Fellow in Nutritional Sciences, Amazing Mom of 2 boys :), Foody and Hiking Lover
 
 profile:
   align: left
