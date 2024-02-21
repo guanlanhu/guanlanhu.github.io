@@ -36,8 +36,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 
 [4] Ling, C., Versloot, C., Arvidsson, M.E., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Rebalancing of mitochondrial homeostasis through an NAD+-SIRT1 pathway preserves intestinal barrier function in severe malnutrition. *EBioMedicine*, 96, 1-21. [https://doi.org/10.1016/j.ebiom.2023.104809](https://www.sciencedirect.com/science/article/pii/S2352396423003754)
 
-[5] Vresk, L., Flanagan, M., Daniel, A., Potani, I., ... , **Hu, G.**, & Bandsma, R. (2023). Micronutrient status in children aged 6-59 months with severe wasting and/or nutritional edema: Implications for nutritional rehabilitation formulations. *Nutrition Reviews*, (Accepted and In Press)
-
+[5] Vresk, L., Flanagan, M., Daniel, A., Potani, I., ..., **Hu, G.**, ..., & Bandsma, R. (2024). Micronutrient status in children aged 6-59 months with severe wasting and/or nutritional edema: Implications for nutritional rehabilitation formulations. *Nutrition Reviews*, [https://doi.org/10.1093/nutrit/nuad165](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuad165/7607218)
 
 <br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
