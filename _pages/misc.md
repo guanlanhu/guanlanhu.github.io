@@ -18,7 +18,7 @@ nav_order: 2
 
 **My Favorite Hikes**
 <br/><br/><br/>
-![Hiking](/assets/img/Hiking3.png "Hiking")
+![Hiking](/assets/img/Hiking4.png "Hiking")
 <br/><br/><br/>
 
 
