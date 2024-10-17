@@ -11,8 +11,8 @@ profile:
   address: >
     Contact:
     
-    <p>1 King's College Circle, Toronto, ON M5S 1A8</p>
-    <p><a href = "mailto:guanlan.hu@utoronto.ca">guanlan.hu@utoronto.ca</a></p>
+    <p>550 W, 120th St, New York, NY 10027</p>
+    <p><a href = "mailto:guanlan.hu@utoronto.ca">gh2677@columbia.edu</a></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
