@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Hello/你好. Welcome to my website! 
 
-I am a Postdoctoral Research Scientist at <a href='https://datascience.columbia.edu/>'>Data Science Institute, Columbia University</a>. I completed my PhD training at <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a> and <a href='https://www.sickkids.ca/'>The Hospital for Sick Children</a>. 
+I am a Postdoctoral Research Scientist at <a href='https://datascience.columbia.edu/>'>the Data Science Institute, Columbia University</a>. I completed my PhD training at <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a> and <a href='https://www.sickkids.ca/'>The Hospital for Sick Children</a>. 
 
 My research interests are Artificial Intelligence in Nutrition, Food Policy, Dietary Behaviors, Metabolic Diseases and Cancer.
 
