@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Fellow in Nutritional Sciences, Amazing Mom of 2 boys :), Foody and Hiking Lover
+subtitle: Researcher in Data Science and Nutritional Sciences, Amazing Mom of 2 boys :), Foody and Hiking Lover
 
 profile:
   align: left
@@ -20,9 +20,11 @@ social: false  # includes social icons at the bottom of the page
 ---
 Hello/你好. Welcome to my website! 
 
-I am a Postdoc Fellow in Nutritional Sciences at <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a>, and my supervisor is <a href='https://labbelab.utoronto.ca/people/mary-labbe/'>Mary R. L’Abbé</a>. I completed my PhD training at the University of Toronto and <a href='https://www.sickkids.ca/'>The Hospital for Sick Children</a>. 
+I am a Postdoctoral Research Scientist at <a href='https://datascience.columbia.edu/>'>Data Science Institute, Columbia University</a>. I completed my PhD training at <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a> and <a href='https://www.sickkids.ca/'>The Hospital for Sick Children</a>. 
 
-My research interests are Artificial Intelligence in Nutrition, Dietary Behaviors, Cardiometabolic Diseases, and Precision Nutrition.
+My research interests are Artificial Intelligence in Nutrition, Food Policy, Dietary Behaviors, Metabolic Diseases and Cancer.
+
+<!-- , and Precision Nutrition -->
 
 <!-- I have developed hands-on experience in nutrition interventions, metabolic dysfunction, cohort studies, and food policy research, and have implemented a wide array of machine learning methodologies to deal with multi-omics and clinical time series data, histology images, food scanner data, and nutrient composition databases. I have a strong interest in Natural Language Processing (NLP), Computer Vision (CV), and Multi-Omics approaches as they are dramatically changing how we understand food consumption behaviors and related metabolic diseases in ways that have never before been possible. -->
 
