@@ -7,7 +7,13 @@ nav: true
 nav_order: 1
 ---
 
-**1, Artificial Intelligence in Nutrition**
+**1, Clinical Decision Support for Cancer Treatment**
+<br/>
+<br/>
+on going work at Columbia!
+
+
+**2, Artificial Intelligence in Nutrition**
 <br/>
 <br/>
 [1] **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)** [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022) 
@@ -19,7 +25,7 @@ nav_order: 1
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
-**2, Diet-related Metabolic Diseases**
+**3, Diet-related Metabolic Diseases**
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 <br/>
 <br/>
@@ -42,7 +48,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
 
-**3, Food Processing**
+**4, Food Processing**
 <br/>
 <br/>
 [1] **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food Chemistry*, 204, 46-55.
