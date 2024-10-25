@@ -18,6 +18,7 @@ on-going work at Columbia!
 <br/>
 <br/>
 more on-going work at Columbia!
+
 [1] **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)** [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022) 
 
 
