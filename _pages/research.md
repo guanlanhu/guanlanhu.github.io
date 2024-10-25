@@ -11,10 +11,8 @@ nav_order: 1
 <br/>
 <br/>
 on going work at Columbia!
-
-<br/><br/><br/>
-
-
+<br/>
+<br/>
 
 **2, Artificial Intelligence in Nutrition**
 <br/>
@@ -32,7 +30,6 @@ on going work at Columbia!
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 <br/>
 <br/>
-
 [1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16. [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
 
 [2] Arvidsson, M.E., **Hu, G.**, Chi, L., Bourdon, C., Ling, C., ChenMi, Y., ... & Bandsma, R. (2022). Inhibition of mTOR improves malnutrition induced hepatic metabolic dysfunction. *Scientific Reports*, 12(1), 1-12.
