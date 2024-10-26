@@ -22,7 +22,7 @@ Hello/你好. Welcome to my website!
 
 I am a Postdoctoral Research Scientist at <a href='https://datascience.columbia.edu/'> The Data Science Institute, Columbia University</a>. I completed my PhD training at <a href='https://temertymedicine.utoronto.ca/'>Temerty Faculty of Medicine, University of Toronto</a> and <a href='https://www.sickkids.ca/en/research/research-programs/translational-medicine/'>Transitional Medicine Program, The Hospital for Sick Children</a>. 
 
-My research interests are Clinical Decision Support for Cancer Treatment, Artificial Intelligence in Nutrition, Food Policy, Dietary Behaviors and Diet-related Diseases. I have a particular interest in NLP, multimodal deep learning, and multi-omics methods.
+My research interests are Artificial Intelligence in Nutrition, Clinical Decision Support, Food Policy, Dietary Behaviors and Diet-related Diseases. I have a particular interest in NLP, multimodal deep learning, and multi-omics methods.
 
 <!-- , and Precision Nutrition -->
 
