@@ -29,7 +29,6 @@ more on-going work at Columbia!
 <br/><br/><br/>
 
 **3, Diet-related Metabolic Diseases**
-<!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 <br/>
 <br/>
 [1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16. [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
@@ -49,6 +48,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 <br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
+<!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 
 **4, Food Processing**
 <br/>
