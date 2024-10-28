@@ -29,7 +29,7 @@ nav_order: 2
 <br/><br/><br/>
 
 **Dietary Guidelines**
-<br/><br/>
+<br/>
 ![FoodGuide2](/assets/img/FG_12c_ok.png "Dietary Guidelines")
 <!-- ![FoodGuide](/assets/img/FG_12c_ok.png "Dietary Guidelines") -->
 <!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
@@ -47,7 +47,7 @@ nav_order: 2
 * <a href='https://www.fao.org/3/as842e/as842e.pdf'>Dietary Guidelines for South Africa 2013</a>
 * <a href='https://wiredhealthresources.net/presentations/82/story_content/external_files/Benin.pdf'>Benin's Dietary Guidelines 2015</a>
 * <a href='https://www.dge.de/gesunde-ernaehrung/dge-ernaehrungsempfehlungen/dge-ernaehrungskreis/'>Germany's Dietary Guidelines 2017</a>
-<br/><br/><br/>
+<br/><br/>
 
 **Great Conferences**
 
