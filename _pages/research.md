@@ -23,7 +23,7 @@ nav_order: 1
 -  **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating the classification of NOVA food processing levels using a fine-tuned language model: A multi-country study. *Nutrients*, 15(19), 4167. (Special Issue: AI in Public Health Nutrition)
 [https://doi.org/10.3390/nu15194167](https://doi.org/10.3390/nu15194167) 
 
-<br/><br/>
+<br/>
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
@@ -45,7 +45,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 -  Vresk, L., Flanagan, M., Daniel, A., Potani, I., ..., **Hu, G.**, ..., & Bandsma, R. (2024). Micronutrient status in children aged 6-59 months with severe wasting and/or nutritional edema: Implications for nutritional rehabilitation formulations. *Nutrition Reviews*, nuad165, 1-34.
 [https://doi.org/10.1093/nutrit/nuad165](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuad165/7607218)
 
-<br/><br/>
+<br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
 
