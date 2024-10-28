@@ -10,24 +10,24 @@ nav_order: 2
 **Fun Facts**
 
 * From Hunan (111.7°E) - Nanjing (118.8°E) - Shanghai (121.5°E) –> Toronto (79.4°W) - Philidaphia (75.2°W) - New York City (74.0°W), I have been studying all the way to the east (The Journey to the r'East', yes!) <a href='https://en.wikipedia.org/wiki/Journey_to_the_West'>[Book]</a> <a href='https://store.steampowered.com/app/2358720/Black_Myth_Wukong/'>[Game]</a>
-<br/><br/><br/>
+<br/><br/>
 ![Journey](/assets/img/EastGame.png "Journey")
 <!--      111.7°E 118.8°E   121.5°E      79.4°W     75.2°W  ,  New York 74.0060° W-->
 <!-- * <a href='https://arthurweilu.com/'>Emerging Leader in Marketing Research</a> -->
-<br/><br/><br/>
+<br/><br/>
 
 **My Favorite Hikes**
-<br/><br/><br/>
+<br/><br/>
 ![Hiking](/assets/img/Hiking4.png "Hiking")
-<br/><br/><br/>
+<br/><br/>
 
 
 **Chi Map (China and World)**
 
 * Not Just Gong Bao Ji Ding
-<br/><br/><br/>
+<br/><br/>
 ![ChinaFood](/assets/img/ChinaFood.jpg "ChinaFood")
-<br/><br/><br/>
+<br/><br/>
 
 
 **Dietary Guidelines**
