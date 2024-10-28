@@ -61,7 +61,7 @@ nav_order: 2
 * <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Congress of Nutrition, August 24 – August 29, 2025, Paris, France</a>
 *    Abstract submission deadline: December 13, 2024
 
-* <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, The American Society for Nutrition (ASN), June 11 – June 14, 2025, Auckland, New Zealand</a>
+* <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, June 11 – June 14, 2025, Auckland, New Zealand</a>
 *    Abstract submission deadline: November 22, 2024 (oral) Febrary 21, 2025 (abstarct)
 
 * <a href='https://nutrition.org/meeting/abstracts-at-nutrition-2025/'>NUTRITION 2025, The American Society for Nutrition (ASN), August 24 – August 29, 2025, Paris, France</a>
