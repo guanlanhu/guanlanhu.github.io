@@ -17,12 +17,12 @@ nav_order: 1
 **2, Artificial Intelligence in Nutrition**
 <br/>
 <br/>
-more on-going work at Columbia!
+&nbsp;&nbsp;&nbsp; more on-going work at Columbia!
 
-[1] **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)** [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022) 
+&nbsp;&nbsp;&nbsp; [1] **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)** [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022) 
 
 
-[2] **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating the classification of NOVA food processing levels using a fine-tuned language model: A multi-country study. *Nutrients*, 15(19), 4167. (Special Issue: AI in Public Health Nutrition) [https://doi.org/10.3390/nu15194167](https://doi.org/10.3390/nu15194167) 
+&nbsp;&nbsp;&nbsp; [2] **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating the classification of NOVA food processing levels using a fine-tuned language model: A multi-country study. *Nutrients*, 15(19), 4167. (Special Issue: AI in Public Health Nutrition) [https://doi.org/10.3390/nu15194167](https://doi.org/10.3390/nu15194167) 
 
 <br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
@@ -31,19 +31,20 @@ more on-going work at Columbia!
 **3, Diet-Related Metabolic Diseases**
 <br/>
 <br/>
-[1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16. [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
+&nbsp;&nbsp;&nbsp; [1] **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16. 
+&nbsp;&nbsp;&nbsp; [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
 
-[2] Arvidsson, M.E., **Hu, G.**, Chi, L., Bourdon, C., Ling, C., ChenMi, Y., ... & Bandsma, R. (2022). Inhibition of mTOR improves malnutrition induced hepatic metabolic dysfunction. *Scientific Reports*, 12(1), 1-12.
-[https://doi.org/10.1038/s41598-022-24428-7](https://www.nature.com/articles/s41598-022-24428-7)
+&nbsp;&nbsp;&nbsp; [2] Arvidsson, M.E., **Hu, G.**, Chi, L., Bourdon, C., Ling, C., ChenMi, Y., ... & Bandsma, R. (2022). Inhibition of mTOR improves malnutrition induced hepatic metabolic dysfunction. *Scientific Reports*, 12(1), 1-12.
+&nbsp;&nbsp;&nbsp; [https://doi.org/10.1038/s41598-022-24428-7](https://www.nature.com/articles/s41598-022-24428-7)
 
-[3] Chi, L., Lee, D., Leung, S., **Hu, G.**, Wen, B., ... & Bandsma, R. (2023). Loss of functional peroxisomes
-leads to increased mitochondrial biogenesis and reduced autophagy that preserve mitochondrial function.
-*Cellular and Molecular Life Sciences*, 80(7), 1-20.
-[https://doi.org/10.1007/s00018-023-04827-3](https://link.springer.com/article/10.1007/s00018-023-04827-3)
+&nbsp;&nbsp;&nbsp; [3] Chi, L., Lee, D., Leung, S., **Hu, G.**, Wen, B., ... & Bandsma, R. (2023). Loss of functional peroxisomes
+leads to increased mitochondrial biogenesis and reduced autophagy that preserve mitochondrial function. *Cellular and Molecular Life Sciences*, 80(7), 1-20.
+&nbsp;&nbsp;&nbsp; [https://doi.org/10.1007/s00018-023-04827-3](https://link.springer.com/article/10.1007/s00018-023-04827-3)
 
-[4] Ling, C., Versloot, C., Arvidsson, M.E., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Rebalancing of mitochondrial homeostasis through an NAD+-SIRT1 pathway preserves intestinal barrier function in severe malnutrition. *EBioMedicine*, 96, 1-21. [https://doi.org/10.1016/j.ebiom.2023.104809](https://www.sciencedirect.com/science/article/pii/S2352396423003754)
+&nbsp;&nbsp;&nbsp; [4] Ling, C., Versloot, C., Arvidsson, M.E., **Hu, G.**, Swain, N., ... & Bandsma, R. (2023). Rebalancing of mitochondrial homeostasis through an NAD+-SIRT1 pathway preserves intestinal barrier function in severe malnutrition. *EBioMedicine*, 96, 1-21. [https://doi.org/10.1016/j.ebiom.2023.104809](https://www.sciencedirect.com/science/article/pii/S2352396423003754)
 
-[5] Vresk, L., Flanagan, M., Daniel, A., Potani, I., ..., **Hu, G.**, ..., & Bandsma, R. (2024). Micronutrient status in children aged 6-59 months with severe wasting and/or nutritional edema: Implications for nutritional rehabilitation formulations. *Nutrition Reviews*, nuad165, 1-34. [https://doi.org/10.1093/nutrit/nuad165](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuad165/7607218)
+&nbsp;&nbsp;&nbsp; [5] Vresk, L., Flanagan, M., Daniel, A., Potani, I., ..., **Hu, G.**, ..., & Bandsma, R. (2024). Micronutrient status in children aged 6-59 months with severe wasting and/or nutritional edema: Implications for nutritional rehabilitation formulations. *Nutrition Reviews*, nuad165, 1-34. 
+&nbsp;&nbsp;&nbsp; [https://doi.org/10.1093/nutrit/nuad165](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuad165/7607218)
 
 <br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
@@ -53,9 +54,9 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 **4, Food Processing**
 <br/>
 <br/>
-[1] **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food Chemistry*, 204, 46-55.
+&nbsp;&nbsp;&nbsp; [1] **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food Chemistry*, 204, 46-55.
 
-[2] **Hu, G.**, Zheng, Y., Liu, Z., Xiao, Y., Deng, Y., & Zhao, Y. (2017). Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein. *Food Chemistry*, 221, 1860-1866.
+&nbsp;&nbsp;&nbsp; [2] **Hu, G.**, Zheng, Y., Liu, Z., Xiao, Y., Deng, Y., & Zhao, Y. (2017). Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein. *Food Chemistry*, 221, 1860-1866.
 
 <!-- <br/><br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
