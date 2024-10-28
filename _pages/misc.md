@@ -56,19 +56,16 @@ nav_order: 2
 
 **Great Conferences**
 
-* <a href='https://nutrition.org/meeting/'>NUTRITION 2025, American Society for Nutrition (ASN), May 31 – Jun 3, 2025 | Orlando, Florida</a> \n Abstract submission deadline: Jan 13, 2025
-* <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Union of Nutritional Sciences, Aug 24 – 29, 2025 | Paris, France</a>
-Abstract submission deadline: Dec 13, 2024
-* <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, International Society of Behavioral Nutrition and Physical Activity, Jun 11 – 14, 2025 | Auckland, New Zealand</a>
-*    Abstract submission deadline: Nov 22, 2024 (oral), Feb 21, 2025 (abstarct)
-* <a href='https://www.worldobesity.org/training-and-events/events/international-congress-on-obesity'>ICO 2025, International Conference on Obesity, Sep 20 - 21, 2025 | Lisbon, Portugal</a>
-*    Abstract submission deadline: Jan 12, 2025
+* <a href='https://nutrition.org/meeting/'>NUTRITION 2025, American Society for Nutrition (ASN), May 31 – Jun 3, 2025 | Orlando, Florida</a> <br> Abstract submission deadline: Jan 13, 2025
+* <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Union of Nutritional Sciences, Aug 24 – 29, 2025 | Paris, France</a> <br> Abstract submission deadline: Dec 13, 2024
+* <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, International Society of Behavioral Nutrition and Physical Activity, Jun 11 – 14, 2025 | Auckland, New Zealand</a> <br> Abstract submission deadline: Nov 22, 2024 (oral), Feb 21, 2025 (abstarct)
+* <a href='https://www.worldobesity.org/training-and-events/events/international-congress-on-obesity'>ICO 2025, International Conference on Obesity, Sep 20 - 21, 2025 | Lisbon, Portugal</a> <br>Abstract submission deadline: Jan 12, 2025
 
 * <a href='https://www.amia.org/education-events/amia-2024-annual-symposium'>AMIA 2024, American Medical Informatics Association, Nov 9 - 13 | San Francisco, CA</a>
-*    Abstract submission deadline: 2024
-*    AMIA 2025 Annual Symposium, Nov 15-19 | Atlanta, GA
-*    AMIA 2026 Annual Symposium, Nov 7-11 | Dallas, TX
-*    AMIA 2027 Annual Symposium, Nov 6-10 | San Diego, CA
+<br>Abstract submission deadline: 2024
+<br>AMIA 2025 Annual Symposium, Nov 15-19 | Atlanta, GA
+<br>AMIA 2026 Annual Symposium, Nov 7-11 | Dallas, TX
+<br>AMIA 2027 Annual Symposium, Nov 6-10 | San Diego, CA
 
 <br/><br/><br/>
 
