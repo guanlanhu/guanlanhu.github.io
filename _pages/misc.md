@@ -58,6 +58,7 @@ nav_order: 2
 
 * <a href='https://nutrition.org/meeting/'>NUTRITION 2025, The American Society for Nutrition (ASN), May 31 – Jun 3, 2025 | Orlando, Florida</a>
 *    Abstract submission deadline: Jan 13, 2025
+  
 * <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Union of Nutritional Sciences, Aug 24 – 29, 2025 | Paris, France</a>
 *    Abstract submission deadline: Dec 13, 2024
 
@@ -67,8 +68,7 @@ nav_order: 2
 * <a href='https://www.worldobesity.org/training-and-events/events/international-congress-on-obesity'>ICO 2025, International Conference on Obesity, Sep 20 - 21, 2025 | Lisbon, Portugal</a>
 *    Abstract submission deadline: Jan 12, 2025
 
-
-
+<br/>
 
 
 * <a href='https://www.amia.org/education-events/amia-2024-annual-symposium'>AMIA 2024 Annual Symposium, Nov 9 - 13 | San Francisco, CA</a>
