@@ -19,7 +19,7 @@ nav_order: 2
 **My Favorite Hikes**
 <br/><br/>
 ![Hiking](/assets/img/Hiking4.png "Hiking")
-<br/><br/>
+<br/><br/><br/>
 
 **Chi Map (China and World)**
 
