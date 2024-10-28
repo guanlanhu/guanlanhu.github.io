@@ -27,7 +27,6 @@ nav_order: 2
 <br/><br/>
 ![ChinaFood](/assets/img/ChinaFood.jpg "ChinaFood")
 <br/>
-
 * World - Exploring ...
 <br/><br/><br/>
 
