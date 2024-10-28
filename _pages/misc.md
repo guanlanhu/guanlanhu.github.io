@@ -21,7 +21,7 @@ nav_order: 2
 ![Hiking](/assets/img/Hiking4.png "Hiking")
 <br/><br/><br/>
 
-**Chi Map (China and World)**
+**CHI 吃 Map **
 
 * China - Not Just Gong Bao Ji Ding
 <br/><br/>
