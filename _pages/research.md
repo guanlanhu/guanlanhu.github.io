@@ -10,7 +10,7 @@ nav_order: 1
 **1, Data-Driven Clinical Decision Support**
 <br/>
 <br/>
-on-going work at Columbia
+- on-going work at Columbia
 <br/>
 <br/>
 
@@ -19,7 +19,7 @@ on-going work at Columbia
 <br/>
 &nbsp;&nbsp;&nbsp; more on-going work at Columbia!
 
-<p> &nbsp;&nbsp;&nbsp; [1] **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)** [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022) 
+- [1] **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)** [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022) 
 
 
 &nbsp;&nbsp;&nbsp; [2] **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating the classification of NOVA food processing levels using a fine-tuned language model: A multi-country study. *Nutrients*, 15(19), 4167. (Special Issue: AI in Public Health Nutrition) [https://doi.org/10.3390/nu15194167](https://doi.org/10.3390/nu15194167) 
