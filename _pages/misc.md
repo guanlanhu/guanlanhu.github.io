@@ -58,13 +58,13 @@ nav_order: 2
 
 * <a href='https://nutrition.org/meeting/'>NUTRITION 2025, The American Society for Nutrition (ASN), May 31 – Jun 3, 2025, Orlando, Florida</a>
 *    Abstract submission deadline: Jan 13, 2025
-* <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Union of Nutritional Sciences, Aug 24 – 29, 2025, Paris, France</a>
+* <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Union of Nutritional Sciences, Aug 24 – 29, 2025 | Paris, France</a>
 *    Abstract submission deadline: Dec 13, 2024
 
-* <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, The International Society of Behavioral Nutrition and Physical Activity, Jun 11 – 14, 2025, Auckland, New Zealand</a>
+* <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, The International Society of Behavioral Nutrition and Physical Activity, Jun 11 – 14, 2025 | Auckland, New Zealand</a>
 *    Abstract submission deadline: Nov 22, 2024 (oral) Feb 21, 2025 (abstarct)
 
-* <a href='https://www.worldobesity.org/training-and-events/events/international-congress-on-obesity'>ICO 2025, International Conference on Obesity, Sep 20 - 21, 2025, Lisbon, Portugal</a>
+* <a href='https://www.worldobesity.org/training-and-events/events/international-congress-on-obesity'>ICO 2025, International Conference on Obesity, Sep 20 - 21, 2025 | Lisbon, Portugal</a>
 *    Abstract submission deadline: Jan 12, 2025
 
 
