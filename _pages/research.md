@@ -10,7 +10,7 @@ nav_order: 1
 **1, Data-Driven Clinical Decision Support**
 <br/>
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; on-going work at Columbia!
+&nbsp;&nbsp;&nbsp; on-going work at Columbia!
 <br/>
 <br/>
 
