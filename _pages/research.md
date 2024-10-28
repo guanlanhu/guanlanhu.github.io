@@ -9,18 +9,15 @@ nav_order: 1
 
 **1, Data-Driven Clinical Decision Support**
 <br/>
-<br/>
 - on-going work at Columbia
 <br/>
 <br/>
 
 **2, Artificial Intelligence in Nutrition**
 <br/>
-<br/>
 - more on-going work at Columbia!
 
--  **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)** [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022) 
-
+-  **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)** [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022)
 
 -  **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating the classification of NOVA food processing levels using a fine-tuned language model: A multi-country study. *Nutrients*, 15(19), 4167. (Special Issue: AI in Public Health Nutrition) [https://doi.org/10.3390/nu15194167](https://doi.org/10.3390/nu15194167) 
 
@@ -29,7 +26,6 @@ nav_order: 1
 <br/><br/><br/>
 
 **3, Diet-Related Metabolic Diseases**
-<br/>
 <br/>
 -  **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16.&nbsp; [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
 
@@ -46,10 +42,10 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 <br/><br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
+
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 
 **4, Food Processing**
-<br/>
 <br/>
 -  **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food Chemistry*, 204, 46-55.
 
