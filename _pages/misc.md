@@ -21,7 +21,7 @@ nav_order: 2
 ![Hiking](/assets/img/Hiking4.png "Hiking")
 <br/><br/><br/>
 
-**CHI Map **
+**CHI Map**
 
 * China - Not Just Gong Bao Ji Ding
 <br/><br/>
