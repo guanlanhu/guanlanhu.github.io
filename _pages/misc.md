@@ -14,7 +14,7 @@ nav_order: 2
 ![Journey](/assets/img/EastGame.png "Journey")
 <!--      111.7°E 118.8°E   121.5°E      79.4°W     75.2°W  ,  New York 74.0060° W-->
 <!-- * <a href='https://arthurweilu.com/'>Emerging Leader in Marketing Research</a> -->
-<br/>
+<br/><br/>
 
 **My Favorite Hikes**
 <br/><br/>
@@ -26,7 +26,7 @@ nav_order: 2
 * Not Just Gong Bao Ji Ding
 <br/><br/>
 ![ChinaFood](/assets/img/ChinaFood.jpg "ChinaFood")
-<br/><br/>
+<br/><br/><br/>
 
 **Dietary Guidelines**
 <br/>
@@ -47,7 +47,7 @@ nav_order: 2
 * <a href='https://www.fao.org/3/as842e/as842e.pdf'>Dietary Guidelines for South Africa 2013</a>
 * <a href='https://wiredhealthresources.net/presentations/82/story_content/external_files/Benin.pdf'>Benin's Dietary Guidelines 2015</a>
 * <a href='https://www.dge.de/gesunde-ernaehrung/dge-ernaehrungsempfehlungen/dge-ernaehrungskreis/'>Germany's Dietary Guidelines 2017</a>
-<br/><br/>
+<br/><br/><br/>
 
 **Great Conferences**
 
