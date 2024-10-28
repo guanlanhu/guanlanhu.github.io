@@ -9,7 +9,7 @@ nav_order: 2
 
 **Fun Facts**
 
-* From Hunan (111.7°E) - Nanjing (118.8°E) - Shanghai (121.5°E) –> Toronto (79.4°W) - Philidaphia (75.2°W) - New York City (74.0°W), I have been studying all the way to the east (The Journey to the r'East', yes!)
+* From Hunan (111.7°E) - Nanjing (118.8°E) - Shanghai (121.5°E) –> Toronto (79.4°W) - Philidaphia (75.2°W) - New York City (74.0°W), I have been studying all the way to the east (The Journey to the r'East', yes!) <a href='https://en.wikipedia.org/wiki/Journey_to_the_West'>[Book]</a> <a href='https://store.steampowered.com/app/2358720/Black_Myth_Wukong/'>[Game]</a>
 <br/><br/><br/>
 ![Journey](/assets/img/EastGame.png "Journey")
 <!--      111.7°E 118.8°E   121.5°E      79.4°W     75.2°W  ,  New York 74.0060° W-->
@@ -71,7 +71,7 @@ nav_order: 2
 <br/>
 
 
-* <a href='https://www.amia.org/education-events/amia-2024-annual-symposium'>AMIA 2024, American Medical Informatics Association Annual Symposium, Nov 9 - 13 | San Francisco, CA</a>
+* <a href='https://www.amia.org/education-events/amia-2024-annual-symposium'>AMIA 2024, American Medical Informatics Association, Nov 9 - 13 | San Francisco, CA</a>
 *    Abstract submission deadline: 2024
 *    AMIA 2025 Annual Symposium, Nov 15-19 | Atlanta, GA
 *    AMIA 2026 Annual Symposium, Nov 7-11 | Dallas, TX
