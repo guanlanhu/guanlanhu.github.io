@@ -11,7 +11,7 @@ profile:
   address: >
     Contact:
     
-    <p>550 W, 120th St, New York, NY 10027</p>
+    <p>550 W 120th St, New York, NY 10027</p>
     <p><a href = "mailto:guanlan.hu@utoronto.ca">gh2677@columbia.edu</a></p>
 
 news: false  # includes a list of news items
