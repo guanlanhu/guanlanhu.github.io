@@ -64,7 +64,7 @@ nav_order: 2
 *    Abstract submission deadline: Nov 22, 2024 (oral), Feb 21, 2025 (abstarct)
 * <a href='https://www.worldobesity.org/training-and-events/events/international-congress-on-obesity'>ICO 2025, International Conference on Obesity, Sep 20 - 21, 2025 | Lisbon, Portugal</a>
 *    Abstract submission deadline: Jan 12, 2025
-<br/>
+
 * <a href='https://www.amia.org/education-events/amia-2024-annual-symposium'>AMIA 2024, American Medical Informatics Association, Nov 9 - 13 | San Francisco, CA</a>
 *    Abstract submission deadline: 2024
 *    AMIA 2025 Annual Symposium, Nov 15-19 | Atlanta, GA
