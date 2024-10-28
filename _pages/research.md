@@ -7,9 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-* **1, Data-Driven Clinical Decision Support**
-<br/>
-<br/> on-going work at Columbia!
+* **1, Data-Driven Clinical Decision Support** <br/><br/> on-going work at Columbia!
 <br/>
 <br/>
 
