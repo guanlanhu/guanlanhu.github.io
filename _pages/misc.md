@@ -56,8 +56,7 @@ nav_order: 2
 
 **Great Conferences**
 
-* <a href='https://nutrition.org/meeting/'>NUTRITION 2025, American Society for Nutrition (ASN), May 31 – Jun 3, 2025 | Orlando, Florida</a>
-Abstract submission deadline: Jan 13, 2025
+* <a href='https://nutrition.org/meeting/'>NUTRITION 2025, American Society for Nutrition (ASN), May 31 – Jun 3, 2025 | Orlando, Florida</a> \n Abstract submission deadline: Jan 13, 2025
 * <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Union of Nutritional Sciences, Aug 24 – 29, 2025 | Paris, France</a>
 Abstract submission deadline: Dec 13, 2024
 * <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, International Society of Behavioral Nutrition and Physical Activity, Jun 11 – 14, 2025 | Auckland, New Zealand</a>
