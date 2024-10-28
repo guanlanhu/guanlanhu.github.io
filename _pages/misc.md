@@ -17,10 +17,9 @@ nav_order: 2
 <br/><br/>
 
 **My Favorite Hikes**
-<br/><br/>
+<br/>
 ![Hiking](/assets/img/Hiking4.png "Hiking")
 <br/><br/>
-
 
 **Chi Map (China and World)**
 
@@ -29,13 +28,11 @@ nav_order: 2
 ![ChinaFood](/assets/img/ChinaFood.jpg "ChinaFood")
 <br/><br/>
 
-
 **Dietary Guidelines**
-<br/><br/><br/>
+<br/><br/>
 ![FoodGuide2](/assets/img/FG_12c_ok.png "Dietary Guidelines")
 <!-- ![FoodGuide](/assets/img/FG_12c_ok.png "Dietary Guidelines") -->
 <!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
-
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s Food Guide 2019</a>
 * <a href='https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf'>Dietary Guidelines for Americans 2020-2025</a>
@@ -50,9 +47,7 @@ nav_order: 2
 * <a href='https://www.fao.org/3/as842e/as842e.pdf'>Dietary Guidelines for South Africa 2013</a>
 * <a href='https://wiredhealthresources.net/presentations/82/story_content/external_files/Benin.pdf'>Benin's Dietary Guidelines 2015</a>
 * <a href='https://www.dge.de/gesunde-ernaehrung/dge-ernaehrungsempfehlungen/dge-ernaehrungskreis/'>Germany's Dietary Guidelines 2017</a>
-
-
-<br/><br/><br/>
+<br/><br/>
 
 **Great Conferences**
 
@@ -67,7 +62,7 @@ nav_order: 2
 <br>AMIA 2026 Annual Symposium, Nov 7-11 | Dallas, TX
 <br>AMIA 2027 Annual Symposium, Nov 6-10 | San Diego, CA
 
-<br/><br/><br/>
+<br/><br/>
 
 
 
