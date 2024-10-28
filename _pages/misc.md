@@ -52,8 +52,22 @@ nav_order: 2
 * <a href='https://www.dge.de/gesunde-ernaehrung/dge-ernaehrungsempfehlungen/dge-ernaehrungskreis/'>Germany's Dietary Guidelines 2017</a>
 
 
+<br/><br/><br/>
 
-
-
+**Great Conferences**
+<br/><br/><br/>
+* <a href='https://nutrition.org/meeting/abstracts-at-nutrition-2025/'>NUTRITION 2025, The American Society for Nutrition (ASN), May 31 – June 3, 2025, Orlando, Florida</a>
+Abstract submission deadline: January 13, 2025
+* <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Congress of Nutrition, May 31 – June 3, 2025, Orlando, Florida</a>
+Abstract submission deadline: December 13, 2024
+* <a href='https://nutrition.org/meeting/abstracts-at-nutrition-2025/'>NUTRITION 2025, The American Society for Nutrition (ASN), August 24 – August 29, 2025, Paris, France</a>
+Abstract submission deadline: January 13, 2025
+* <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, The American Society for Nutrition (ASN), June 11 – June 14, 2025, Auckland, New Zealand</a>
+Abstract submission deadline: January 13, 2025
 
 <br/><br/><br/>
+
+
+
+
+
