@@ -28,6 +28,15 @@ more on-going work at Columbia!
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
+<style>
+    .small-image {
+        width: 200px;
+        height: auto;
+    }
+</style>
+
+<img src="TRA.png" alt="TRA" class="small-image">
+
 **3, Diet-Related Metabolic Diseases**
 <br/>
 <br/>
