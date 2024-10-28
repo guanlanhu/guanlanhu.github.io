@@ -14,7 +14,7 @@ nav_order: 2
 ![Journey](/assets/img/EastGame.png "Journey")
 <!--      111.7°E 118.8°E   121.5°E      79.4°W     75.2°W  ,  New York 74.0060° W-->
 <!-- * <a href='https://arthurweilu.com/'>Emerging Leader in Marketing Research</a> -->
-<br/><br/><br/>
+<br/>
 
 **My Favorite Hikes**
 <br/><br/>
