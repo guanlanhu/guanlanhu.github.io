@@ -26,7 +26,7 @@ nav_order: 2
 * China - Not Just Gong Bao Ji Ding
 <br/><br/>
 ![ChinaFood](/assets/img/ChinaFood.jpg "ChinaFood")
-<br/>
+
 * World - Exploring ...
 <br/><br/><br/>
 
