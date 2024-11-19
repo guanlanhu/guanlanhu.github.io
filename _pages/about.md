@@ -4,8 +4,6 @@ title: About
 permalink: /
 subtitle: Researcher in Data Sciences and Nutritional Sciences, Amazing Mom of 2 boys :), Foody and Hiking Lover
 
-<!-- Artificial Intelligence (AI) -->
-
 profile:
   align: left
   image: hgl.jpg
