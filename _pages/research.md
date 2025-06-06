@@ -13,10 +13,9 @@ nav_order: 1
 - more ongoing work!
   
 -  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(in preparation)*
-<br/>
-<br/>
+<br/><br/>
 
-**2, Artificial Intelligence in Nutrition & Food Policy**
+**2, Artificial Intelligence in Nutrition**
 <br/>
 
 -  **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)**
@@ -27,16 +26,21 @@ nav_order: 1
 
 -  **Hu, G.**, Gross, O., Lu, A., Ziraldo, E., ..., & L'Abbé, M. (2025). Using artificial intelligence and computer vision to detect and monitor unhealthy child-directed food and beverage marketing. *(under review)*
 
+-  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
+
+<br/><br/>
+![TRA](/assets/img/TRA.png "TRA")
+<br/><br/><br/>
+
+
+**2, Dietary Behaviors and Food Policy **
+<br/>
+
 -  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2025). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(under review)* 
    
 -  **Hu, G.**, Vergeer, L., Ahmed, M., & L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review）*
 
 -  Ziraldo, E.\*, **Hu, G.\***, Khan, A., & L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. [https://doi: 10.1017/S136898002400226X](https://doi.org/10.1017/S136898002400226X)
-
--  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
-
-<br/><br/>
-![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
 **3, Diet-Related Metabolic Diseases**
