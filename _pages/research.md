@@ -31,7 +31,7 @@ nav_order: 1
    
 -  **Hu, G.**, Vergeer, L., Ahmed, M., & L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review）*
 
--  Ziraldo, E.\*, **Hu, G.\***, Khan, A., & L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. [https://doi: 10.1017/S136898002400226X](https://doi: 10.1017/S136898002400226X)
+-  Ziraldo, E.\*, **Hu, G.\***, Khan, A., & L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. [https://doi: 10.1017/S136898002400226X](doi: 10.1017/S136898002400226X)
 
 -  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
 
