@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher in Data Science and Nutritional Sciences, Amazing Mom of 2 boys :), Foody and Hiking Lover
+subtitle: Researcher in Artificial Intelligence and Nutritional Sciences, Amazing Mom of 2 boys :), Foody and Hiking Lover
 
 profile:
   align: left
