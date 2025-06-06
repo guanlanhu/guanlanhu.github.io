@@ -33,7 +33,7 @@ nav_order: 1
 <br/><br/><br/>
 
 
-**2, Dietary Behaviors and Food Policy **
+**3, Dietary Behaviors and Food Policy**
 <br/>
 
 -  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2025). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(under review)* 
@@ -43,7 +43,7 @@ nav_order: 1
 -  Ziraldo, E.\*, **Hu, G.\***, Khan, A., & L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. [https://doi: 10.1017/S136898002400226X](https://doi.org/10.1017/S136898002400226X)
 <br/><br/><br/>
 
-**3, Diet-Related Metabolic Diseases**
+**4, Diet-Related Metabolic Diseases**
 <br/>
 -  **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16.
 [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
@@ -69,7 +69,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 
 
 
-**4, Food Processing**
+**5, Food Processing**
 <br/>
 -  **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food Chemistry*, 204, 46-55.
 
