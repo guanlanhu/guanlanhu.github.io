@@ -10,10 +10,9 @@ nav_order: 1
 
 **1, Data-Driven Clinical Decision Support**
 <br/>
+- more ongoing work!
 
--  **Hu, G.\***, Anand, A.*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(in preparation)*
-
-**2, Artificial Intelligence in Nutrition**
+**2, Artificial Intelligence in Nutrition and Food Policy**
 <br/>
 
 -  **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)**
@@ -22,15 +21,17 @@ nav_order: 1
 -  **Hu, G.**, Flexner, N., Tiscornia, M., & L'Abbé, M. (2023). Accelerating the classification of NOVA food processing levels using a fine-tuned language model: A multi-country study. *Nutrients*, 15(19), 4167. (Special Issue: AI in Public Health Nutrition)
 [https://doi.org/10.3390/nu15194167](https://doi.org/10.3390/nu15194167)
 
--  **Hu, G.**, Gross, O., Lu, A., Ziraldo, E., ..., \& L'Abbé, M. (2025). Using artificial intelligence and computer vision to detect and monitor unhealthy child-directed food and beverage marketing. *（under review）*
+-  **Hu, G.**, Gross, O., Lu, A., Ziraldo, E., ..., \& L'Abbé, M. (2025). Using artificial intelligence and computer vision to detect and monitor unhealthy child-directed food and beverage marketing. *(under review)*
 
 -  **Hu, G.**, Lu, W., Soberman, D., \& L'Abbé, M. (2025). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(under review)* 
    
 -  **Hu, G.**, Vergeer, L., Ahmed, M., \& L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review）*
 
--  Ziraldo, E.*, **Hu, G.\***, Khan, A., \& L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. 
+-  Ziraldo, E.*, **Hu, G.\***, Khan, A., \& L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10.
 
--  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. (in preparation)
+-  **Hu, G.\***, Anand, A.*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(in preparation)*
+
+-  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
 
 <br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
