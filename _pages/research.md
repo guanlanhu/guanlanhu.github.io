@@ -16,7 +16,7 @@ nav_order: 1
 <br/>
 <br/>
 
-**2, Artificial Intelligence in Nutrition**
+**2, Artificial Intelligence in Nutrition & Food Policy**
 <br/>
 
 -  **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)**
