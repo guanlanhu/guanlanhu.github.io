@@ -10,13 +10,11 @@ nav_order: 1
 
 **1, Data-Driven Clinical Decision Support**
 <br/>
-<br/>
-<br/>
+
 -  **Hu, G.\***, Anand, A.*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(in preparation)*
 
 **2, Artificial Intelligence in Nutrition**
 <br/>
-
 
 -  **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)**
 [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022)
