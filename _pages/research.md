@@ -12,7 +12,8 @@ nav_order: 1
 <br/>
 - more ongoing work!
 -  **Hu, G.\***, Anand, A.*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(in preparation)*
-
+<br/>
+<br/>
 
 **2, Artificial Intelligence in Nutrition**
 <br/>
