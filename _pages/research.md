@@ -10,13 +10,13 @@ nav_order: 1
 
 **1, Data-Driven Clinical Decision Support**
 <br/>
-- on-going work at Columbia!
 <br/>
 <br/>
+-  **Hu, G.\***, Anand, A.*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(in preparation)*
 
 **2, Artificial Intelligence in Nutrition**
 <br/>
-- more on-going work at Columbia!
+
 
 -  **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)**
 [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022)
@@ -30,7 +30,9 @@ nav_order: 1
    
 -  **Hu, G.**, Vergeer, L., Ahmed, M., \& L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review）*
 
--  Ziraldo, E.*, **Hu, G.***, Khan, A., \& L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. 
+-  Ziraldo, E.*, **Hu, G.\***, Khan, A., \& L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. 
+
+-  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. (in preparation)
 
 <br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
