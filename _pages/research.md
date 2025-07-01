@@ -16,6 +16,7 @@ nav_order: 1
 -  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
 
 -  and more ongoing work!
+<br/><br/><br/>
 
 **2, Artificial Intelligence in Nutrition**
 <br/>
