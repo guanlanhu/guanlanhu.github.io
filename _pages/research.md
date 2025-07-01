@@ -29,7 +29,7 @@ nav_order: 1
 
 -  **Hu, G.**, Gross, O., Lu, A., Ziraldo, E., ..., & L'Abbé, M. (2025). Using artificial intelligence and computer vision to detect and monitor unhealthy child-directed food and beverage marketing. *(under review)*
 
-<br/><br/>
+<br/>
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
@@ -62,7 +62,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 -  Vresk, L., Flanagan, M., Daniel, A., Potani, I., ..., **Hu, G.**, ..., & Bandsma, R. (2024). Micronutrient status in children aged 6-59 months with severe wasting and/or nutritional edema: Implications for nutritional rehabilitation formulations. *Nutrition Reviews*, nuad165, 1-34.
 [https://doi.org/10.1093/nutrit/nuad165](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuad165/7607218)
 
-<br/><br/>
+<br/>
 ![Meta](/assets/img/Meta.png "Meta")
 <br/><br/><br/>
 
