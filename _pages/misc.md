@@ -51,7 +51,7 @@ nav_order: 2
 * <a href='https://www.dge.de/gesunde-ernaehrung/dge-ernaehrungsempfehlungen/dge-ernaehrungskreis/'>Germany's Dietary Guidelines 2017</a>
 <br/><br/>
 
-**Great Conferences**
+**Great Conferences to meet**
 
 * <a href='https://nutrition.org/meeting/'>NUTRITION 2025, American Society for Nutrition (ASN), May 31 – Jun 3, 2025 | Orlando, Florida</a> <br> Abstract submission deadline: Jan 13, 2025
 * <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Union of Nutritional Sciences, Aug 24 – 29, 2025 | Paris, France</a> <br> Abstract submission deadline: Dec 13, 2024
@@ -63,7 +63,6 @@ nav_order: 2
 <br>AMIA 2025 Annual Symposium, Nov 15-19 | Atlanta, GA
 <br>AMIA 2026 Annual Symposium, Nov 7-11 | Dallas, TX
 <br>AMIA 2027 Annual Symposium, Nov 6-10 | San Diego, CA
-
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13–17 | Barcelona</a> <br> Abstract submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 
 <br/><br/>
