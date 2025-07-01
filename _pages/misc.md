@@ -60,7 +60,7 @@ nav_order: 2
 * <a href='https://www.amia.org/education-events/amia-2024-annual-symposium'>AMIA 2025, American Medical Informatics Association, Nov 15-19 | Atlanta, GA</a> <br> submission deadline: Mar 19, 2025
 <br> AMIA 2026 Annual Symposium, Nov 7-11 | Dallas, TX
 <br> AMIA 2027 Annual Symposium, Nov 6-10 | San Diego, CA
-* <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13–17 | Barcelona</a> <br> Abstract submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
+* <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13–17 | Barcelona</a> <br> submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 
 <br/><br/>
 
