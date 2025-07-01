@@ -58,8 +58,7 @@ nav_order: 2
 * <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, International Society of Behavioral Nutrition and Physical Activity, Jun 11 – 14, 2025 | Auckland, New Zealand</a> <br> Abstract submission deadline: Nov 22, 2024 (oral), Feb 21, 2025 (abstarct)
 * <a href='https://www.worldobesity.org/training-and-events/events/international-congress-on-obesity'>ICO 2025, International Conference on Obesity, Sep 20 - 21, 2025 | Lisbon, Portugal</a> <br>Abstract submission deadline: Jan 12, 2025
 
-* <a href='https://www.amia.org/education-events/amia-2024-annual-symposium'>AMIA 2024, American Medical Informatics Association, Nov 9 - 13 | San Francisco, CA</a>
-<br>AMIA 2025 Annual Symposium, Nov 15-19 | Atlanta, GA
+* <a href='https://www.amia.org/education-events/amia-2024-annual-symposium'>AMIA 2024, American Medical Informatics Association, Nov 9 - 13 | San Francisco, CA</a> <br>AMIA 2025 Annual Symposium, Nov 15-19 | Atlanta, GA
 <br>AMIA 2026 Annual Symposium, Nov 7-11 | Dallas, TX
 <br>AMIA 2027 Annual Symposium, Nov 6-10 | San Diego, CA
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13–17 | Barcelona</a> <br> Abstract submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
