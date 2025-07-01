@@ -10,10 +10,13 @@ nav_order: 1
 
 **1, Data-Driven Clinical Decision Support**
 <br/>
-- more ongoing work!
   
 -  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(in preparation)*
 <br/><br/>
+
+-  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
+
+-  and more ongoing work!
 
 **2, Artificial Intelligence in Nutrition**
 <br/>
@@ -25,8 +28,6 @@ nav_order: 1
 [https://doi.org/10.3390/nu15194167](https://doi.org/10.3390/nu15194167)
 
 -  **Hu, G.**, Gross, O., Lu, A., Ziraldo, E., ..., & L'Abbé, M. (2025). Using artificial intelligence and computer vision to detect and monitor unhealthy child-directed food and beverage marketing. *(under review)*
-
--  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
 
 <br/><br/>
 ![TRA](/assets/img/TRA.png "TRA")
