@@ -25,14 +25,14 @@ nav_order: 2
 
 * China - Not Just Gong Bao Ji Ding
 <br/><br/>
-<img src="/assets/img/ChinaFood.jpg" alt="ChinaFood" title="ChinaFood" height="300">
+<img src="/assets/img/ChinaFood.jpg" alt="ChinaFood" title="ChinaFood" height="400">
 
 * World - Exploring ...
 <br/><br/><br/>
 
 **Dietary Guidelines**
 <br/>
-<img src="/assets/img/FG_12c_ok.png" alt="Dietary Guidelines" title="Dietary Guidelines" height="300">
+<img src="/assets/img/FG_12c_ok.png" alt="Dietary Guidelines" title="Dietary Guidelines" height="400">
 <!-- ![FoodGuide](/assets/img/FG_12c_ok.png "Dietary Guidelines") -->
 <!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
 
@@ -63,6 +63,7 @@ nav_order: 2
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13–17 | Barcelona</a> <br> submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 
 <br/><br/>
+
 
 
 
