@@ -37,7 +37,7 @@ nav_order: 1
 **3, Dietary Behaviors and Food Policy**
 <br/>
 
--  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2025). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(under review, Nature Human Behavior)* 
+-  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2025). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(under review, Nature Human Behaviour)* 
    
 -  **Hu, G.**, Vergeer, L., Ahmed, M., & L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review, Public Health Nutrition）*
 
@@ -118,6 +118,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
