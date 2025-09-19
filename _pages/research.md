@@ -67,7 +67,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 
 <h3>5, Food Processing</h3>
-<br/>
+
 -  **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food Chemistry*, 204, 46-55.
 
 -  **Hu, G.**, Zheng, Y., Liu, Z., Xiao, Y., Deng, Y., & Zhao, Y. (2017). Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein. *Food Chemistry*, 221, 1860-1866.
@@ -107,6 +107,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
