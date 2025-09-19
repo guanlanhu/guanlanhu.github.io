@@ -14,7 +14,7 @@ nav_order: 1
 -  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
 
 -  and more ongoing work!
-<br/><br/><br/>
+<br/>
 
 <h3>2, Artificial Intelligence in Nutrition</h3>
 
@@ -28,7 +28,7 @@ nav_order: 1
 
 <br/>
 <img src="/assets/img/TRA.png" alt="TRA" title="TRA" height="300">
-<br/><br/><br/>
+<br/>
 
 <h3>3, Dietary Behaviors and Food Policy</h3>
 
@@ -40,7 +40,7 @@ nav_order: 1
 
 -  Lee, J., Srebot, S., Ahmed, M.,  Mulligan C., **Hu, G.**, & L'Abbé, M. (2023). Nutritional quality and price of plant-based dairy and meat analogs in the Canadian food supply system. *Journal of Food Science*, 27: e257, 1-10. [https://pubmed.ncbi.nlm.nih.gov/37458282/](https://pubmed.ncbi.nlm.nih.gov/37458282/)
 
-<br/><br/><br/>
+<br/>
 
 <h3>4, Diet-Related Metabolic Diseases</h3>
 
@@ -62,7 +62,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 
 <br/>
 <img src="/assets/img/Meta.png" alt="Meta" title="Meta" height="400">
-<br/><br/><br/>
+<br/>
 
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 
@@ -107,6 +107,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
