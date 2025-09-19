@@ -30,8 +30,7 @@ nav_order: 1
 -  **Hu, G.**, Gross, O., Lu, A., Ziraldo, E., ..., & L'Abbé, M. (2025). Using artificial intelligence and computer vision to detect and monitor unhealthy child-directed food and beverage marketing. *(accepted, EClinicalMedicine)*
 
 <br/>
-<img src="/assets/img/TRA.png" alt="TRA" title="TRA" height="400">
-![TRA](/assets/img/TRA.png "TRA")
+<img src="/assets/img/TRA.png" alt="TRA" title="TRA" height="300">
 <br/><br/><br/>
 
 
@@ -120,6 +119,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
