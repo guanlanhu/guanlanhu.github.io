@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<h4>1, Data-Driven Clinical Decision Support</h4>
+<h3>1, Data-Driven Clinical Decision Support</h3>
   
 -  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(under review, Journal of the American Medical Informatics Association)*
 
@@ -30,8 +30,7 @@ nav_order: 1
 <img src="/assets/img/TRA.png" alt="TRA" title="TRA" height="300">
 <br/><br/><br/>
 
-**3, Dietary Behaviors and Food Policy**
-<br/>
+</h3>3, Dietary Behaviors and Food Policy</h3>
 
 -  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2025). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(under review, Nature Human Behaviour)* 
    
@@ -43,8 +42,8 @@ nav_order: 1
 
 <br/><br/><br/>
 
-**4, Diet-Related Metabolic Diseases**
-<br/>
+</h3>4, Diet-Related Metabolic Diseases</h3>
+
 -  **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16.
 [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
 
