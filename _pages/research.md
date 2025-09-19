@@ -33,6 +33,7 @@ nav_order: 1
 ![TRA](/assets/img/TRA.png "TRA")
 <br/><br/><br/>
 
+<img src="/assets/img/TRA.png" alt="TRA" title="TRA" width="100">
 
 **3, Dietary Behaviors and Food Policy**
 <br/>
@@ -118,6 +119,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
