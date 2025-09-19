@@ -25,7 +25,7 @@ nav_order: 2
 
 * China - Not Just Gong Bao Ji Ding
 <br/><br/>
-<img src="/assets/img/ChinaFood.png" alt="ChinaFood" title="ChinaFood" height="300">
+<img src="/assets/img/ChinaFood.jpg" alt="ChinaFood" title="ChinaFood" height="300">
 
 * World - Exploring ...
 <br/><br/><br/>
@@ -63,6 +63,7 @@ nav_order: 2
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13–17 | Barcelona</a> <br> submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 
 <br/><br/>
+
 
 
 
