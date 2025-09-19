@@ -34,7 +34,6 @@ nav_order: 1
 <br/><br/><br/>
 
 
-
 **3, Dietary Behaviors and Food Policy**
 <br/>
 
@@ -69,7 +68,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 [https://doi.org/10.1093/nutrit/nuad165](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuad165/7607218)
 
 <br/>
-![Meta](/assets/img/Meta.png "Meta")
+<img src="/assets/img/Meta.png" alt="Meta" title="Meta" height="300">
 <br/><br/><br/>
 
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
@@ -119,6 +118,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
