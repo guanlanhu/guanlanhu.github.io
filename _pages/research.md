@@ -8,7 +8,8 @@ nav_order: 1
 ---
 
 <h4>1, Data-Driven Clinical Decision Support</h4>
-  
+<br/>
+
 -  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(under review, Journal of the American Medical Informatics Association)*
 
 -  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
@@ -18,7 +19,12 @@ nav_order: 1
 <br/>
 <br/>
 
+
+
+
+
 <h4>2, Artificial Intelligence in Nutrition</h4>
+<br/>
 
 -  **Hu, G.**, Ahmed, M., & L'Abbé, M. (2023). Natural language processing and machine learning approaches for food categorization and nutrition quality prediction compared to traditional methods. *The American Journal of Clinical Nutrition*, 117(3), 553-563. **(Editor's Choice)**
 [https://doi.org/10.1016/j.ajcnut.2022.11.022](https://doi.org/10.1016/j.ajcnut.2022.11.022)
@@ -34,7 +40,11 @@ nav_order: 1
 <br/>
 <br/>
 
+
+
+
 <h4>3, Dietary Behaviors and Food Policy</h4>
+<br/>
 
 -  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2025). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(under review, Nature Human Behaviour)* 
    
@@ -46,7 +56,11 @@ nav_order: 1
 
 <br/>
 
+
+
+
 <h4>4, Diet-Related Metabolic Diseases</h4>
+<br/>
 
 -  **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16.
 [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
@@ -72,7 +86,12 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 
+
+
+
+
 <h4>5, Food Processing</h4>
+<br/>
 
 -  **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food Chemistry*, 204, 46-55.
 
@@ -113,6 +132,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
