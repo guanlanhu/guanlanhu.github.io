@@ -30,7 +30,7 @@ nav_order: 1
 <img src="/assets/img/TRA.png" alt="TRA" title="TRA" height="300">
 <br/><br/><br/>
 
-</h3>3, Dietary Behaviors and Food Policy</h3>
+<h3>3, Dietary Behaviors and Food Policy</h3>
 
 -  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2025). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(under review, Nature Human Behaviour)* 
    
@@ -42,7 +42,7 @@ nav_order: 1
 
 <br/><br/><br/>
 
-</h3>4, Diet-Related Metabolic Diseases</h3>
+<h3>4, Diet-Related Metabolic Diseases</h3>
 
 -  **Hu, G.**, Ling, C., Chi, L., Thind, M. K., Furse, S., ... & Bandsma, R. (2022). The role of the tryptophan-NAD + pathway in a mouse model of severe malnutrition induced liver dysfunction. *Nature Communications*, 13(1), 1-16.
 [https://doi.org/10.1038/s41467-022-35317-y](https://www.nature.com/articles/s41467-022-35317-y)
@@ -66,7 +66,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 
 <!-- Pathomics, metabolomics and lipidomics (Well-nourished vs Malnourished induced liver and intestine dysfunction) -->
 
-**5, Food Processing**
+<h3>5, Food Processing</h3>
 <br/>
 -  **Hu, G.**, Zheng, Y., Liu, Z., Deng, Y., & Zhao, Y. (2016). Structure and IgE-binding properties of α-casein treated by high hydrostatic pressure, UV-C, and far-IR radiations. *Food Chemistry*, 204, 46-55.
 
@@ -107,6 +107,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
