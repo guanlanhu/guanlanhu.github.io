@@ -41,7 +41,7 @@ nav_order: 1
    
 -  **Hu, G.**, Vergeer, L., Ahmed, M., & L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review, Public Health Nutrition）*
 
--  Ziraldo, E.\*, **Hu, G.\***, Khan, A., & L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. [https://doi: 10.1017/S136898002400226X](https://doi.org/10.1017/S136898002400226X) (* co-first author)
+-  Ziraldo, E.\*, **Hu, G.\***, Khan, A., & L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. [https://doi: 10.1017/S136898002400226X](https://doi.org/10.1017/S136898002400226X) (*co-first author)
 
 -  Lee, J., Srebot, S., Ahmed, M.,  Mulligan C., **Hu, G.**, & L'Abbé, M. (2023). Nutritional quality and price of plant-based dairy and meat analogs in the Canadian food supply system. *Journal of Food Science*, 27: e257, 1-10. [https://pubmed.ncbi.nlm.nih.gov/37458282/](https://pubmed.ncbi.nlm.nih.gov/37458282/)
 
@@ -81,7 +81,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 
 -  **Hu, G.**, Zheng, Y., Liu, Z., Xiao, Y., Deng, Y., & Zhao, Y. (2017). Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein. *Food Chemistry*, 221, 1860-1866.
 
-
+-  **Hu, G.**, Zheng, Y., Liu, Z., \& Deng, Y. (2015). Effects of UV-C and single-and multiple-cycle high hydrostatic pressure treatments on flavor evolution of cow milk: Gas chromatography-mass spectrometry, e-nose, and e-tongue analyses. *International Journal of Food Properties*, 20(7), 1677-1688.
 
 
 
@@ -118,6 +118,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
