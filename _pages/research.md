@@ -9,7 +9,7 @@ nav_order: 1
 
 
 **1, Data-Driven Clinical Decision Support**
-<h1>Data-Driven Clinical Decision Support</h1>
+<h2>Data-Driven Clinical Decision Support</h2>
 <br/>
   
 -  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(under review, Journal of the American Medical Informatics Association)*
@@ -112,6 +112,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
