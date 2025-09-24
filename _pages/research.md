@@ -97,7 +97,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 
 -  **Hu, G.**, Zheng, Y., Liu, Z., Xiao, Y., Deng, Y., & Zhao, Y. (2017). Effects of high hydrostatic pressure, ultraviolet light-C, and far-infrared treatments on the digestibility, antioxidant and antihypertensive activity of α-casein. *Food Chemistry*, 221, 1860-1866.
 
--  **Hu, G.**, Zheng, Y., Liu, Z., \& Deng, Y. (2015). Effects of UV-C and single-and multiple-cycle high hydrostatic pressure treatments on flavor evolution of cow milk: Gas chromatography-mass spectrometry, e-nose, and e-tongue analyses. *International Journal of Food Properties*, 20(7), 1677-1688.
+-  **Hu, G.**, Zheng, Y., Liu, Z., & Deng, Y. (2015). Effects of UV-C and single-and multiple-cycle high hydrostatic pressure treatments on flavor evolution of cow milk: Gas chromatography-mass spectrometry, e-nose, and e-tongue analyses. *International Journal of Food Properties*, 20(7), 1677-1688.
 
 
 
@@ -132,6 +132,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
