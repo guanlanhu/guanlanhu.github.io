@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher in Artificial Intelligence (AI), Food, and Nutrition. Amazing Mom of 2 boys :) Foody and Hiking Lover.
+subtitle: Researcher in Food, Nutrition, and Artificial Intelligence (AI). Amazing Mom of 2 boys :) Foody and Hiking Lover.
 
 profile:
   align: left
