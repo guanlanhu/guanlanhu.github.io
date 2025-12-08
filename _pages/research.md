@@ -10,7 +10,7 @@ nav_order: 1
 <h4>1, Data-Driven Clinical Decision Support</h4>
 <br/>
 
--  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(under review, Journal of the American Medical Informatics Association)*
+-  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(accepted, Journal of the American Medical Informatics Association)*
 
 -  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
 
@@ -132,6 +132,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
