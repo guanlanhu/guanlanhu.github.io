@@ -23,7 +23,7 @@ Hello/你好. Welcome to my website!
 I am a Postdoctoral Research Scientist at The Data Science Institute, <a href='https://datascience.columbia.edu/'> Columbia University</a>. I completed my PhD in Nutritional Sciences at Temerty Faculty of Medicine, <a href='https://temertymedicine.utoronto.ca/'>University of Toronto</a>, and training in Transitional Medicine Program, <a href='https://www.sickkids.ca/en/research/research-programs/translational-medicine/'>The Hospital for Sick Children</a>. I also hold a Master of Computer and Information Technology from the <a href='https://www.seas.upenn.edu/'> University of Pennsylvania</a>.
 
 
-My research focuses on artificial intelligence (AI) in nutrition and clinical decision support, with an emphasis on diet-related diseases. I have a particular interest in natural language processing (NLP), multimodal deep learning, and multi-omics approaches.
+My research focuses on artificial intelligence (AI) in nutrition and clinical decision support, with an emphasis on diet-related chronic disease management. I have a particular interest in natural language processing (NLP), multimodal deep learning, and multi-omics approaches.
 
 <!-- , and Precision Nutrition -->
 
