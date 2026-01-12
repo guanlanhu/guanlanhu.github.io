@@ -32,14 +32,14 @@ nav_order: 2
 
 **Dietary Guidelines**
 <br/>
-<img src="/assets/img/FG_12c_ok.png" alt="Dietary Guidelines" title="Dietary Guidelines" weight="400">
+<img src="/assets/img/FG_12c_okk.png" alt="Dietary Guidelines" title="Dietary Guidelines" weight="400">
 <!-- ![FoodGuide](/assets/img/FG_12c_ok.png "Dietary Guidelines") -->
 <!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s Food Guide 2019</a>
 * <a href='https://cdn.realfood.gov/DGA.pdf'>Dietary Guidelines for Americans 2025-2030</a>
 * <a href='http://dg.cnsoc.org/imgnewslist_0602_1.htm'>Chinese Dietary Guidelines 2022</a>
-* <a href='https://hq.moh.gov.my/nutrition/wp-content/uploads/2021/07/Web%20MDG.pdf'>Malaysian Dietary Guidelines 2020</a>
+* <a href='https://hq.moh.gov.my/nutrition/wp-content/uploads/2024/03/latest-01.Buku-MDG-2020_12Mac2024.pdf'>Malaysian Dietary Guidelines 2020</a>
 * <a href='https://drive.google.com/file/d/1oJ0WBCZfI4ffE1ZtdyQg60snIdFibb98/view?pli=1'>Mexico's Dietary Guidelines 2023</a>
 * <a href='http://www.diatrofikoiodigoi.gr/?Page=gia-enilikes'>Greek Dietary Guidelines 2014</a>
 * <a href='https://www.minsal.cl/wp-content/uploads/2022/12/guias_alimentarias_2022_2ed.pdf'>Chile's Dietary Guidelines 2022</a>
@@ -62,6 +62,7 @@ nav_order: 2
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13-17 | Barcelona, Spain</a> <br> submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 * <a href='https://icml.cc/'> ICML 2026, International Conference on Machine Learning, July 6-11 | Seoul, South Korea</a> <br> submission deadline: Jan 28, 2026 (paper)
 <br/><br/>
+
 
 
 
