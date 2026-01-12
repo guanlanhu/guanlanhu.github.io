@@ -37,8 +37,8 @@ nav_order: 2
 <!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s Food Guide 2019</a>
-* <a href='https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf'>Dietary Guidelines for Americans 2020-2025</a>
-* <a href='https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate-vs-usda-myplate/'>Healthy Eating Plate vs. USDA’s MyPlate</a>
+* <a href='https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2025-2030.pdf'>Dietary Guidelines for Americans 2025-2030</a>
+* <a href='https://cdn.realfood.gov/DGA.pdf'>Dietary Guidelines for Americans 2025-2030</a>
 * <a href='http://dg.cnsoc.org/imgnewslist_0602_1.htm'>Chinese Dietary Guidelines 2022</a>
 * <a href='https://hq.moh.gov.my/nutrition/wp-content/uploads/2021/07/Web%20MDG.pdf'>Malaysian Dietary Guidelines 2020</a>
 * <a href='https://drive.google.com/file/d/1oJ0WBCZfI4ffE1ZtdyQg60snIdFibb98/view?pli=1'>Mexico's Dietary Guidelines 2023</a>
@@ -63,6 +63,7 @@ nav_order: 2
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13-17 | Barcelona</a> <br> submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 
 <br/><br/>
+
 
 
 
