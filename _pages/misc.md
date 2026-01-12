@@ -37,7 +37,6 @@ nav_order: 2
 <!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
 
 * <a href='https://food-guide.canada.ca/en/'>Canada’s Food Guide 2019</a>
-* <a href='https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2025-2030.pdf'>Dietary Guidelines for Americans 2025-2030</a>
 * <a href='https://cdn.realfood.gov/DGA.pdf'>Dietary Guidelines for Americans 2025-2030</a>
 * <a href='http://dg.cnsoc.org/imgnewslist_0602_1.htm'>Chinese Dietary Guidelines 2022</a>
 * <a href='https://hq.moh.gov.my/nutrition/wp-content/uploads/2021/07/Web%20MDG.pdf'>Malaysian Dietary Guidelines 2020</a>
@@ -63,6 +62,7 @@ nav_order: 2
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13-17 | Barcelona</a> <br> submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 
 <br/><br/>
+
 
 
 
