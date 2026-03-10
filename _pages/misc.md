@@ -58,11 +58,11 @@ nav_order: 2
 * <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, International Society of Behavioral Nutrition and Physical Activity, Jun 11-14, 2025 | Auckland, New Zealand</a> <br> submission deadline: Nov 22, 2024 (oral), Feb 21, 2025 (abstarct)
 * <a href='https://www.worldobesity.org/training-and-events/events/international-congress-on-obesity'>ICO 2025, International Conference on Obesity, Sep 20-21, 2025 | Lisbon, Portugal</a> <br> submission deadline: Jan 12, 2025
 * <a href='https://amia.org/education-events/amia-2026-annual-symposium'>AMIA 2026, American Medical Informatics Association, Nov 7-11 | Dallas, TX</a>
-<br> submission deadline: Mar 10, 2026
-<!-- <br> AMIA 2027, Nov 6-10 | San Diego, CA -->
+<br> submission deadline: Mar 10, 2026 <!-- <br> AMIA 2027, Nov 6-10 | San Diego, CA -->
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13-17 | Barcelona, Spain</a> <br> submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 * <a href='https://icml.cc/'> ICML 2026, International Conference on Machine Learning, July 6-11 | Seoul, South Korea</a> <br> submission deadline: Jan 28, 2026 (paper)
 <br/><br/>
+
 
 
 
