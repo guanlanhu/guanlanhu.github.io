@@ -17,9 +17,9 @@ nav_order: 2
 <br/><br/>
 
 **My Favorite Hikes**
-<br/>Photo by Guanlan
 <br/><br/>
 <img src="/assets/img/Hiking4.png" alt="Hiking" title="Hiking" weight="400">
+<br/>Photo: Guanlan
 <br/><br/><br/>
 
 **CHI (吃) Map**
@@ -63,6 +63,7 @@ nav_order: 2
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13-17 | Barcelona, Spain</a> <br> submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 * <a href='https://icml.cc/'> ICML 2026, International Conference on Machine Learning, July 6-11 | Seoul, South Korea</a> <br> submission deadline: Jan 28, 2026 (paper)
 <br/><br/>
+
 
 
 
