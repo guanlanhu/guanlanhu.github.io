@@ -17,6 +17,7 @@ nav_order: 2
 <br/><br/>
 
 **My Favorite Hikes**
+* 
 <br/><br/>
 <img src="/assets/img/Hiking1.png" alt="Hiking1" title="Hiking1" width="1000">
 <br/>Photo: Guanlan
@@ -32,6 +33,7 @@ nav_order: 2
 <br/><br/><br/>
 
 **Dietary Guidelines**
+* 
 <br/>
 <img src="/assets/img/DGA1.png" alt="Dietary Guidelines" title="Dietary Guidelines" width="1000">
 <!-- ![FoodGuide](/assets/img/FG_12c_ok.png "Dietary Guidelines") -->
