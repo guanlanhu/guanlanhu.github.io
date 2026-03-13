@@ -35,7 +35,7 @@ nav_order: 1
 -  **Hu, G.**, Gross, O., Lu, A., Ziraldo, E., ..., & L'Abbé, M. (2025). Using artificial intelligence and computer vision to detect and monitor unhealthy child-directed food and beverage marketing. *EClinicalMedicine*, 89, 103549. [https://doi.org/10.1016/j.eclinm.2025.103549](https://doi.org/10.1016/j.eclinm.2025.103549)
 
 <br/>
-<img src="/assets/img/TRA.png" alt="TRA" title="TRA" width="100">
+<img src="/assets/img/TRA.png" alt="TRA" title="TRA" width="400">
 <br/>
 <br/>
 <br/>
@@ -81,7 +81,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 [https://doi.org/10.1093/nutrit/nuad165](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuad165/7607218)
 
 <br/>
-<img src="/assets/img/Meta.png" alt="Meta" title="Meta" width="100">
+<img src="/assets/img/Meta.png" alt="Meta" title="Meta" width="500">
 <br/>
 
 <br/>
