@@ -10,9 +10,9 @@ nav_order: 1
 <h4>1, Data-Driven Clinical Decision Support</h4>
 <br/>
 
--  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(accepted, Journal of the American Medical Informatics Association)*
+-  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2025). Exploring approaches to computational representation and classification of user-generated meal logs. *(accepted on Nov 2025, Journal of the American Medical Informatics Association)*
 
--  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2025). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
+-  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2026). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
 
 -  and more ongoing work!
 <br/>
@@ -46,13 +46,15 @@ nav_order: 1
 <h4>3, Dietary Behaviors and Food Policy</h4>
 <br/>
 
--  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2025). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(under review, Nature Human Behaviour)* 
+-  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2026). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(accepted in principle on Mar 2026, Nature Human Behaviour)* 
    
--  **Hu, G.**, Vergeer, L., Ahmed, M., & L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review, Public Health Nutrition）*
+-  **Hu, G.**, Vergeer, L., Ahmed, M., & L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review）*
 
--  Ziraldo, E.\*, **Hu, G.\***, Khan, A., & L'Abbé, M. (2024). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. [https://doi: 10.1017/S136898002400226X](https://doi.org/10.1017/S136898002400226X) (*co-first author)
+-  Ziraldo, E.\*, **Hu, G.\***, Khan, A., & L'Abbé, M. (2025). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. [https://doi: 10.1017/S136898002400226X](https://doi.org/10.1017/S136898002400226X) (*co-first author)
 
 -  Lee, J., Srebot, S., Ahmed, M.,  Mulligan C., **Hu, G.**, & L'Abbé, M. (2023). Nutritional quality and price of plant-based dairy and meat analogs in the Canadian food supply system. *Journal of Food Science*, 27: e257, 1-10. [https://pubmed.ncbi.nlm.nih.gov/37458282/](https://pubmed.ncbi.nlm.nih.gov/37458282/)
+
+-  Vanderlee, L., Garton, K., Ahmed, M., ..., **Hu, G.**, ..., & Sacks, G. (2026). Prioritising indicators for large-scale monitoring and surveillance of food environments for public health. *(accepted on Mar 2026, Current Obesity Reports)* 
 
 <br/>
 
@@ -132,6 +134,7 @@ High Pressure Research 35 (3), 330-338
 Impact of microfiltration on particle size distribution, volatile compounds and protein quality of pasteurized milk during shelf Life
 D Wang, Y Zheng, Z Liu, G Hu, Y Deng
 Journal of Food and Nutrition Research 3 (1), 26-33 --> 
+
 
 
 
