@@ -18,7 +18,7 @@ nav_order: 2
 
 **My Favorite Hikes**
 <br/><br/>
-<img src="/assets/img/Hiking4.png" alt="Hiking" title="Hiking" width="980">
+<img src="/assets/img/Hiking4.png" alt="Hiking" title="Hiking" width="960">
 <br/>Photo: Guanlan
 <br/><br/><br/>
 
