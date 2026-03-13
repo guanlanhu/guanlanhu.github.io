@@ -35,7 +35,7 @@ nav_order: 1
 -  **Hu, G.**, Gross, O., Lu, A., Ziraldo, E., ..., & L'Abbé, M. (2025). Using artificial intelligence and computer vision to detect and monitor unhealthy child-directed food and beverage marketing. *EClinicalMedicine*, 89, 103549. [https://doi.org/10.1016/j.eclinm.2025.103549](https://doi.org/10.1016/j.eclinm.2025.103549)
 
 <br/>
-<img src="/assets/img/TRA2.png" alt="TRA" title="TRA" width="1200">
+<img src="/assets/img/TRA2.png" alt="TRA" title="TRA" width="1500">
 <br/>
 <br/>
 <br/>
