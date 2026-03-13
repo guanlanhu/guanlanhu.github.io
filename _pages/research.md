@@ -81,7 +81,7 @@ leads to increased mitochondrial biogenesis and reduced autophagy that preserve 
 [https://doi.org/10.1093/nutrit/nuad165](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuad165/7607218)
 
 <br/>
-<img src="/assets/img/Meta.png" alt="Meta" title="Meta" width="500">
+<img src="/assets/img/TRP1.png" alt="TRP1" title="TRP1" width="500">
 <br/>
 
 <br/>
