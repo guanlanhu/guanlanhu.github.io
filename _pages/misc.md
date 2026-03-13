@@ -18,7 +18,7 @@ nav_order: 2
 
 **My Favorite Hikes**
 <br/><br/>
-<img src="/assets/img/Hiking4.png" alt="Hiking" title="Hiking" width="800">
+<img src="/assets/img/Hiking4.png" alt="Hiking" title="Hiking" width="750">
 <br/>Photo: Guanlan
 <br/><br/><br/>
 
@@ -33,7 +33,7 @@ nav_order: 2
 
 **Dietary Guidelines**
 <br/>
-<img src="/assets/img/FG_12c_okk.png" alt="Dietary Guidelines" title="Dietary Guidelines" width="800">
+<img src="/assets/img/FG_12c_okk.png" alt="Dietary Guidelines" title="Dietary Guidelines" width="700">
 <!-- ![FoodGuide](/assets/img/FG_12c_ok.png "Dietary Guidelines") -->
 <!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
 
