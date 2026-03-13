@@ -11,7 +11,7 @@ nav_order: 2
 
 * From Hunan (111.7°E) - Nanjing (118.8°E) - Shanghai (121.5°E) –> Toronto (79.4°W) - Philidaphia (75.2°W) - New York City (74.0°W), I have been studying all the way to the east (The Journey to the r'East', yes!) <a href='https://en.wikipedia.org/wiki/Journey_to_the_West'>[Book]</a> <a href='https://store.steampowered.com/app/2358720/Black_Myth_Wukong/'>[Game]</a>
 <br/><br/>
-<img src="/assets/img/EastGame.png" alt="Journey" title="Journey" width="1000">
+<img src="/assets/img/Trip1.png" alt="Journey" title="Journey" width="1000">
 <!--      111.7°E 118.8°E   121.5°E      79.4°W     75.2°W  ,  New York 74.0060° W-->
 <!-- * <a href='https://arthurweilu.com/'>Emerging Leader in Marketing Research</a> -->
 <br/><br/>
