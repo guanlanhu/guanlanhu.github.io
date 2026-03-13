@@ -18,7 +18,7 @@ nav_order: 2
 
 **My Favorite Hikes**
 <br/><br/>
-<img src="/assets/img/Hiking4.png" alt="Hiking" title="Hiking" width="980">
+<img src="/assets/img/Hiking1.png" alt="Hiking1" title="Hiking1" width="980">
 <br/>Photo: Guanlan
 <br/><br/><br/>
 
@@ -26,14 +26,14 @@ nav_order: 2
 
 * China - Not Just Gong Bao Ji Ding
 <br/><br/>
-<img src="/assets/img/ChinaFood.jpg" alt="ChinaFood" title="ChinaFood" width="1000">
+<img src="/assets/img/ChinaFood1.jpg" alt="ChinaFood1" title="ChinaFood1" width="1000">
 
 * World - Exploring ...
 <br/><br/><br/>
 
 **Dietary Guidelines**
 <br/>
-<img src="/assets/img/FG_12c_okk.png" alt="Dietary Guidelines" title="Dietary Guidelines" width="880">
+<img src="/assets/img/DGA1.png" alt="Dietary Guidelines" title="Dietary Guidelines" width="880">
 <!-- ![FoodGuide](/assets/img/FG_12c_ok.png "Dietary Guidelines") -->
 <!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
 
