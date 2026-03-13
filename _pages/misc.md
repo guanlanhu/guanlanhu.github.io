@@ -11,14 +11,14 @@ nav_order: 2
 
 * From Hunan (111.7°E) - Nanjing (118.8°E) - Shanghai (121.5°E) –> Toronto (79.4°W) - Philidaphia (75.2°W) - New York City (74.0°W), I have been studying all the way to the east (The Journey to the r'East', yes!) <a href='https://en.wikipedia.org/wiki/Journey_to_the_West'>[Book]</a> <a href='https://store.steampowered.com/app/2358720/Black_Myth_Wukong/'>[Game]</a>
 <br/><br/>
-<img src="/assets/img/EastGame.png" alt="Journey" title="Journey" width="800">
+<img src="/assets/img/EastGame.png" alt="Journey" title="Journey" width="1000">
 <!--      111.7°E 118.8°E   121.5°E      79.4°W     75.2°W  ,  New York 74.0060° W-->
 <!-- * <a href='https://arthurweilu.com/'>Emerging Leader in Marketing Research</a> -->
 <br/><br/>
 
 **My Favorite Hikes**
 <br/><br/>
-<img src="/assets/img/Hiking4.png" alt="Hiking" title="Hiking" width="750">
+<img src="/assets/img/Hiking4.png" alt="Hiking" title="Hiking" width="980">
 <br/>Photo: Guanlan
 <br/><br/><br/>
 
@@ -26,14 +26,14 @@ nav_order: 2
 
 * China - Not Just Gong Bao Ji Ding
 <br/><br/>
-<img src="/assets/img/ChinaFood.jpg" alt="ChinaFood" title="ChinaFood" width="800">
+<img src="/assets/img/ChinaFood.jpg" alt="ChinaFood" title="ChinaFood" width="1000">
 
 * World - Exploring ...
 <br/><br/><br/>
 
 **Dietary Guidelines**
 <br/>
-<img src="/assets/img/FG_12c_okk.png" alt="Dietary Guidelines" title="Dietary Guidelines" width="690">
+<img src="/assets/img/FG_12c_okk.png" alt="Dietary Guidelines" title="Dietary Guidelines" width="800">
 <!-- ![FoodGuide](/assets/img/FG_12c_ok.png "Dietary Guidelines") -->
 <!-- [![FoodGuide2](/assets/img/FG_12c_ok.png)](https://food-guide.canada.ca/en/)  -->
 
