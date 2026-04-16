@@ -10,7 +10,7 @@ nav_order: 1
 <h4>1, Data-Driven Clinical Decision Support</h4>
 <br/>
 
--  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2026). Exploring approaches to computational representation and classification of user-generated meal logs. *Journal of the American Medical Informatics Association*, ocaf200. [https://doi.org/10.1093/jamia/ocaf200](https://doi.org/10.1093/jamia/ocaf200)
+-  **Hu, G.\***, Anand, A.\*, Desai, P., Urteaga, I., Mamykina, L. (2026). Exploring approaches to computational representation and classification of user-generated meal logs. *Journal of the American Medical Informatics Association*, ocaf200, 1-11. [https://doi.org/10.1093/jamia/ocaf200](https://doi.org/10.1093/jamia/ocaf200)
 
 -  Liu, Y., Zhao, M., **Hu, G.**, Zhang, Y., Stingone, J. (2026). Machine learning as a predictive tool for nutritional and inflammatory biomarkers in cancer type prediction. *(in preparation)*
 
