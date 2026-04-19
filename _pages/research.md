@@ -46,7 +46,7 @@ nav_order: 1
 <h4>3, Dietary Behaviors and Food Policy</h4>
 <br/>
 
--  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2026). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(accepted in principle on Mar 2026, Nature Human Behaviour)* 
+-  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2026). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(accepted in principle on March 2026, Nature Human Behaviour)* 
    
 -  **Hu, G.**, Vergeer, L., Ahmed, M., & L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review）*
 
