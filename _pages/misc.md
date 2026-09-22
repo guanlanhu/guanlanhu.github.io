@@ -53,8 +53,8 @@ nav_order: 2
 * <a href='https://www.dge.de/gesunde-ernaehrung/dge-ernaehrungsempfehlungen/dge-ernaehrungskreis/'>Germany's Dietary Guidelines 2017</a>
 <br/><br/>
 
-**Great Conferences to meet**
-
+<!-- **Great Conferences to meet** -->
+<!--
 * <a href='https://nutrition.org/meeting/'>NUTRITION 2025, American Society for Nutrition (ASN), May 31-Jun 3, 2025 | Orlando, Florida</a> <br> submission deadline: Jan 13, 2025
 * <a href='https://www.icn2025.org/'>IUNS-ICN 2025, International Union of Nutritional Sciences, Aug 24-29, 2025 | Paris, France</a> <br> submission deadline: Dec 13, 2024
 * <a href='https://annualmeeting.isbnpa.org/'>ISBNPA 2025, International Society of Behavioral Nutrition and Physical Activity, Jun 11-14, 2025 | Auckland, New Zealand</a> <br> submission deadline: Nov 22, 2024 (oral), Feb 21, 2025 (abstarct)
@@ -65,7 +65,7 @@ nav_order: 2
 * <a href='https://chi2026.acm.org/'> CHI 2026, The Association of Computing Machinery, April 13-17 | Barcelona, Spain</a> <br> submission deadline: Sep 4, 2025 (paper), Jan 22, 2026 (poster)
 * <a href='https://icml.cc/'> ICML 2026, International Conference on Machine Learning, July 6-11 | Seoul, South Korea</a> <br> submission deadline: Jan 28, 2026 (paper)
 <br/><br/>
-
+-->
 
 
 
