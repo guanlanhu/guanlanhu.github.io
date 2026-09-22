@@ -46,15 +46,16 @@ nav_order: 1
 <h4>3, Dietary Behaviors and Food Policy</h4>
 <br/>
 
--  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2026). The Slingshot Effect of forced changes on food purchasing behaviors and nutrition disparities caused by the COVID-19 pandemic. *(accepted in principle on March 2026, Nature Human Behaviour)* 
-   
--  **Hu, G.**, Vergeer, L., Ahmed, M., & L'Abbé, M. (2025). Trends in food expenditure and healthy eating in Canada 2010-2019. *(under review）*
+-  **Hu, G.**, Lu, W., Soberman, D., & L'Abbé, M. (2026). Short- and long-term shifts in food purchasing behaviours and nutrition disparities in the USA during and after the COVID-19 pandemic. *Nature Human Behaviour*, 1-19. [https://www.nature.com/articles/s41562-026-02547-9](https://www.nature.com/articles/s41562-026-02547-9)
 
 -  Ziraldo, E.\*, **Hu, G.\***, Khan, A., & L'Abbé, M. (2025). Investigating reformulation in the Canadian food supply and its impact on food prices. *Public Health Nutrition*, 27: e257, 1-10. [https://doi: 10.1017/S136898002400226X](https://doi.org/10.1017/S136898002400226X) (*co-first author)
 
 -  Lee, J., Srebot, S., Ahmed, M.,  Mulligan C., **Hu, G.**, & L'Abbé, M. (2023). Nutritional quality and price of plant-based dairy and meat analogs in the Canadian food supply system. *Journal of Food Science*, 27: e257, 1-10. [https://pubmed.ncbi.nlm.nih.gov/37458282/](https://pubmed.ncbi.nlm.nih.gov/37458282/)
 
--  Vanderlee, L., Garton, K., Ahmed, M., ..., **Hu, G.**, ..., & Sacks, G. (2026). Prioritising indicators for large-scale monitoring and surveillance of food environments for public health. *(accepted on Mar 2026, Current Obesity Reports)* 
+-  Vanderlee, L., Garton, K., Ahmed, M., ..., **Hu, G.**, ..., & Sacks, G. (2026). Prioritising indicators for large-scale monitoring and surveillance of food environments for public health. *Current Obesity Reports*, 15(1), 37. [https://doi.org/10.1007/s13679-026-00705-8](https://doi.org/10.1007/s13679-026-00705-8)
+
+
+-  **Hu, G.**, Vergeer, L., Ahmed, M., & L'Abbé, M. (2026). Trends in food expenditure, healthy eating, and nutrition disparities in Canada. *(under review）*
 
 <br/>
 
